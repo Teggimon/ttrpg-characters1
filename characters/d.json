@@ -34,7 +34,7 @@
     "skills": {
       "acrobatics": "expert",
       "animalhandling": "expert",
-      "arcana": "expert",
+      "arcana": "none",
       "athletics": "none",
       "deception": "none"
     }

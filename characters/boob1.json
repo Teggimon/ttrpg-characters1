@@ -44,7 +44,7 @@
     "initiative": 0,
     "speed": 30,
     "deathSaves": {
-      "successes": 0,
+      "successes": 1,
       "failures": 0
     },
     "conditions": []

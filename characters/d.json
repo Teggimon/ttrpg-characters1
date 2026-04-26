@@ -46,7 +46,8 @@
     },
     "conditions": [
       "Exhaustion",
-      "Paralyzed"
+      "Paralyzed",
+      "Poisoned"
     ]
   },
   "inventory": [],

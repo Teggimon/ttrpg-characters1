@@ -31,7 +31,9 @@
       "cha": 10
     },
     "savingThrows": {},
-    "skills": {}
+    "skills": {
+      "acrobatics": "proficient"
+    }
   },
   "combat": {
     "hpMax": 10,
@@ -66,5 +68,6 @@
   },
   "settings": {
     "encumbranceTracking": false
-  }
+  },
+  "_fileName": "boob1.json"
 }

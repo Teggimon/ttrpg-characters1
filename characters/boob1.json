@@ -38,7 +38,7 @@
   },
   "combat": {
     "hpMax": 0,
-    "hpCurrent": 10,
+    "hpCurrent": 0,
     "hpTemp": 0,
     "ac": 10,
     "initiative": 0,

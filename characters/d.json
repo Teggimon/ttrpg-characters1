@@ -35,8 +35,8 @@
       "acrobatics": "expert",
       "animalhandling": "expert",
       "arcana": "expert",
-      "athletics": "expert",
-      "deception": "expert"
+      "athletics": "none",
+      "deception": "none"
     }
   },
   "combat": {

@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "owner": "github:Teggimon",
+    "characterId": "12b604eb-3c6f-47d9-a891-692c14ab4a50",
+    "copiedFrom": null,
+    "system": "dnd5e",
+    "version": 1,
+    "lastUpdated": "2026-04-26T04:48:40.599Z"
+  },
+  "identity": {
+    "name": "boob1",
+    "race": "boob2",
+    "class": [
+      {
+        "name": "boob hunter",
+        "level": 1
+      }
+    ],
+    "background": "breast",
+    "alignment": "boob chaotic",
+    "xp": 0,
+    "portrait": null
+  },
+  "stats": {
+    "abilityScores": {
+      "str": 10,
+      "dex": 10,
+      "con": 10,
+      "int": 10,
+      "wis": 10,
+      "cha": 10
+    },
+    "savingThrows": {},
+    "skills": {}
+  },
+  "combat": {
+    "hpMax": 10,
+    "hpCurrent": 10,
+    "hpTemp": 0,
+    "ac": 10,
+    "initiative": 0,
+    "speed": 30,
+    "deathSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "conditions": []
+  },
+  "inventory": [],
+  "spells": {
+    "spellcastingAbility": null,
+    "slots": {},
+    "known": [],
+    "prepared": [],
+    "concentration": null
+  },
+  "notes": {
+    "personalityTraits": "",
+    "ideals": "",
+    "bonds": "",
+    "flaws": "",
+    "appearance": "",
+    "backstory": "",
+    "alliesAndOrganisations": "",
+    "general": ""
+  },
+  "settings": {
+    "encumbranceTracking": false
+  }
+}

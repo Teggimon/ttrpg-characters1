@@ -31,7 +31,13 @@
       "cha": 10
     },
     "savingThrows": {},
-    "skills": {}
+    "skills": {
+      "acrobatics": "expert",
+      "animalhandling": "expert",
+      "arcana": "expert",
+      "athletics": "expert",
+      "deception": "expert"
+    }
   },
   "combat": {
     "hpMax": 10,

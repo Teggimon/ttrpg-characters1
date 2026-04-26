@@ -44,7 +44,9 @@
       "successes": 0,
       "failures": 0
     },
-    "conditions": []
+    "conditions": [
+      "Exhaustion"
+    ]
   },
   "inventory": [],
   "spells": {
@@ -66,5 +68,6 @@
   },
   "settings": {
     "encumbranceTracking": false
-  }
+  },
+  "_fileName": "d.json"
 }

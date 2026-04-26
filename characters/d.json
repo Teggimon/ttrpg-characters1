@@ -44,11 +44,7 @@
       "successes": 0,
       "failures": 0
     },
-    "conditions": [
-      "Exhaustion",
-      "Paralyzed",
-      "Poisoned"
-    ]
+    "conditions": []
   },
   "inventory": [],
   "spells": {

@@ -45,7 +45,8 @@
       "failures": 0
     },
     "conditions": [
-      "Exhaustion"
+      "Exhaustion",
+      "Paralyzed"
     ]
   },
   "inventory": [],

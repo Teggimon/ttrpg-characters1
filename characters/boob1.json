@@ -32,7 +32,8 @@
     },
     "savingThrows": {},
     "skills": {
-      "acrobatics": "expert"
+      "acrobatics": "none",
+      "animalhandling": "none"
     }
   },
   "combat": {

@@ -71,6 +71,29 @@
       "description": "",
       "type": "weapon",
       "requiresAttunement": false
+    },
+    {
+      "itemId": "longsword",
+      "name": "Longsword",
+      "quantity": 1,
+      "equipped": false,
+      "attuned": false,
+      "custom": false,
+      "weight": 3,
+      "enhancement": 0,
+      "damage": {
+        "dice": "1d8",
+        "type": "Slashing",
+        "versatile": "1d10"
+      },
+      "throwRange": null,
+      "effects": [],
+      "properties": [
+        "versatile"
+      ],
+      "description": "",
+      "type": "weapon",
+      "requiresAttunement": false
     }
   ],
   "spells": {

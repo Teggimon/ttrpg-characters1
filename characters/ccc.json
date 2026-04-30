@@ -76,7 +76,7 @@
       "itemId": "longsword",
       "name": "Longsword",
       "quantity": 1,
-      "equipped": false,
+      "equipped": true,
       "attuned": false,
       "custom": false,
       "weight": 3,

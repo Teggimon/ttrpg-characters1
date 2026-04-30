@@ -112,7 +112,9 @@
         "used": 1
       }
     },
-    "known": [],
+    "known": [
+      "fire-bolt"
+    ],
     "prepared": [],
     "concentration": null
   },

@@ -99,9 +99,7 @@
   "spells": {
     "spellcastingAbility": null,
     "slots": {},
-    "known": [
-      "fire-bolt"
-    ],
+    "known": [],
     "prepared": [],
     "concentration": null
   },

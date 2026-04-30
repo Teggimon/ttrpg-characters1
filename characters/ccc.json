@@ -46,7 +46,33 @@
     },
     "conditions": []
   },
-  "inventory": [],
+  "inventory": [
+    {
+      "itemId": "handaxe",
+      "name": "Handaxe",
+      "quantity": 1,
+      "equipped": false,
+      "attuned": false,
+      "custom": false,
+      "weight": 2,
+      "enhancement": 0,
+      "damage": {
+        "dice": "1d6",
+        "type": "Slashing",
+        "versatile": null
+      },
+      "throwRange": "20/60ft",
+      "effects": [],
+      "properties": [
+        "light",
+        "thrown",
+        "monk"
+      ],
+      "description": "",
+      "type": "weapon",
+      "requiresAttunement": false
+    }
+  ],
   "spells": {
     "spellcastingAbility": null,
     "slots": {},

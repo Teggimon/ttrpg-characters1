@@ -186,7 +186,7 @@
       "index": "sling",
       "name": "Sling",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "index": "clothes-common",

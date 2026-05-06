@@ -80,9 +80,9 @@
     ]
   },
   "combat": {
-    "hpMax": 10,
+    "hpMax": 0,
     "hpCurrent": 10,
-    "hpTemp": 1,
+    "hpTemp": 0,
     "ac": 10,
     "initiative": 0,
     "speed": 30,

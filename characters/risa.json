@@ -222,7 +222,12 @@
   ],
   "spells": {
     "spellcastingAbility": "wis",
-    "slots": {},
+    "slots": {
+      "1": {
+        "total": 2,
+        "used": 0
+      }
+    },
     "known": [],
     "prepared": [],
     "concentration": null

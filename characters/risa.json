@@ -228,7 +228,14 @@
         "used": 0
       }
     },
-    "known": [],
+    "known": [
+      {
+        "id": "y596te3ndca",
+        "index": "chill-touch",
+        "name": "Chill Touch",
+        "level": 0
+      }
+    ],
     "prepared": [],
     "concentration": null
   },

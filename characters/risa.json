@@ -102,7 +102,7 @@
       "index": "warhammer",
       "name": "Warhammer",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "index": "scale-mail",
@@ -239,5 +239,6 @@
   "settings": {
     "encumbranceTracking": false,
     "milestoneMode": false
-  }
+  },
+  "_fileName": "risa.json"
 }

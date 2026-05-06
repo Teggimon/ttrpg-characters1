@@ -69,7 +69,8 @@
       },
       "religion": {
         "proficient": true
-      }
+      },
+      "acrobatics": 1
     },
     "proficiencies": [
       "Light Armor",

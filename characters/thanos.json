@@ -158,7 +158,7 @@
       "index": "greatsword",
       "name": "Greatsword",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "index": "battleaxe",

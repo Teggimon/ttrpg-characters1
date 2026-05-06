@@ -170,7 +170,7 @@
       "index": "chain-mail",
       "name": "Chain Mail",
       "quantity": 1,
-      "equipped": true
+      "equipped": false
     },
     {
       "index": "clothes-common",

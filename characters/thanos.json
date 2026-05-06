@@ -61,9 +61,7 @@
       "athletics": {
         "proficient": true
       },
-      "perception": {
-        "proficient": true
-      },
+      "perception": null,
       "insight": {
         "proficient": true
       },

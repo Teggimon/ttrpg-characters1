@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "owner": "github:Teggimon",
+    "characterId": "96b1633a-4187-4651-b676-e390fc64fac6",
+    "copiedFrom": null,
+    "system": "dnd5e",
+    "version": 1,
+    "lastUpdated": "2026-05-06T22:16:13.623Z"
+  },
+  "identity": {
+    "name": "Thanos",
+    "race": "Dragonborn",
+    "raceIndex": "dragonborn",
+    "subrace": null,
+    "subraceIndex": null,
+    "class": [
+      {
+        "name": "Fighter",
+        "index": "fighter",
+        "level": 1
+      }
+    ],
+    "background": "Acolyte",
+    "backgroundIndex": "acolyte",
+    "backgroundFeature": {
+      "name": "Shelter of the Faithful",
+      "desc": [
+        "As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.",
+        "You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple."
+      ]
+    },
+    "alignment": "Chaotic Good",
+    "xp": 0,
+    "portrait": null,
+    "size": "Medium",
+    "languages": [
+      "Common",
+      "Draconic",
+      "Draconic",
+      "Goblin"
+    ]
+  },
+  "stats": {
+    "abilityScores": {
+      "str": 12,
+      "dex": 10,
+      "con": 10,
+      "int": 10,
+      "wis": 10,
+      "cha": 11
+    },
+    "savingThrows": {
+      "str": {
+        "proficient": true
+      },
+      "con": {
+        "proficient": true
+      }
+    },
+    "skills": {
+      "athletics": {
+        "proficient": true
+      },
+      "perception": {
+        "proficient": true
+      },
+      "insight": {
+        "proficient": true
+      },
+      "religion": {
+        "proficient": true
+      }
+    },
+    "proficiencies": [
+      "All armor",
+      "Shields",
+      "Simple Weapons",
+      "Martial Weapons"
+    ]
+  },
+  "combat": {
+    "hpMax": 10,
+    "hpCurrent": 10,
+    "hpTemp": 0,
+    "ac": 10,
+    "initiative": 0,
+    "speed": 30,
+    "deathSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "conditions": []
+  },
+  "inventory": [
+    {
+      "index": "backpack",
+      "name": "Backpack",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "index": "crowbar",
+      "name": "Crowbar",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "index": "hammer",
+      "name": "Hammer",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "index": "piton",
+      "name": "Piton",
+      "quantity": 10,
+      "equipped": false
+    },
+    {
+      "index": "torch",
+      "name": "Torch",
+      "quantity": 10,
+      "equipped": false
+    },
+    {
+      "index": "tinderbox",
+      "name": "Tinderbox",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "index": "rations-1-day",
+      "name": "Rations (1 day)",
+      "quantity": 10,
+      "equipped": false
+    },
+    {
+      "index": "waterskin",
+      "name": "Waterskin",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "index": "rope-hempen-50-feet",
+      "name": "Rope, hempen (50 feet)",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "index": "handaxe",
+      "name": "Handaxe",
+      "quantity": 2,
+      "equipped": false
+    },
+    {
+      "index": "greatsword",
+      "name": "Greatsword",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "index": "battleaxe",
+      "name": "Battleaxe",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "index": "chain-mail",
+      "name": "Chain Mail",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "index": "clothes-common",
+      "name": "Clothes, common",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "index": "pouch",
+      "name": "Pouch",
+      "quantity": 1,
+      "equipped": false
+    }
+  ],
+  "racialTraits": [
+    {
+      "index": "draconic-ancestry",
+      "name": "Draconic Ancestry"
+    },
+    {
+      "index": "breath-weapon",
+      "name": "Breath Weapon"
+    },
+    {
+      "index": "damage-resistance",
+      "name": "Damage Resistance"
+    }
+  ],
+  "spells": {
+    "spellcastingAbility": null,
+    "slots": {},
+    "known": [],
+    "prepared": [],
+    "concentration": null
+  },
+  "notes": {
+    "personalityTraits": "",
+    "ideals": "",
+    "bonds": "",
+    "flaws": "",
+    "appearance": "",
+    "backstory": "",
+    "alliesAndOrganisations": "",
+    "general": ""
+  },
+  "settings": {
+    "encumbranceTracking": false,
+    "milestoneMode": false
+  }
+}

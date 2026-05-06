@@ -220,5 +220,13 @@
     "encumbranceTracking": false,
     "milestoneMode": false
   },
-  "_fileName": "thanos.json"
+  "_fileName": "thanos.json",
+  "allies": [
+    {
+      "id": "1778109433020",
+      "name": "",
+      "type": "Ally",
+      "description": ""
+    }
+  ]
 }

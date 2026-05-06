@@ -246,6 +246,12 @@
         "index": "fire-bolt",
         "name": "Fire Bolt",
         "level": 0
+      },
+      {
+        "id": "7b5ayrrhqqt",
+        "index": "burning-hands",
+        "name": "Burning Hands",
+        "level": 1
       }
     ],
     "prepared": [

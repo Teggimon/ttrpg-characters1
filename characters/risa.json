@@ -114,7 +114,7 @@
       "index": "crossbow-light",
       "name": "Crossbow, light",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "index": "crossbow-bolt",

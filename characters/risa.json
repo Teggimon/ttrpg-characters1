@@ -240,6 +240,12 @@
         "index": "alarm",
         "name": "Alarm",
         "level": 1
+      },
+      {
+        "id": "74ab33uqjk",
+        "index": "fire-bolt",
+        "name": "Fire Bolt",
+        "level": 0
       }
     ],
     "prepared": [

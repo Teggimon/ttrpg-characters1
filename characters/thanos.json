@@ -70,7 +70,8 @@
       "religion": {
         "proficient": true
       },
-      "acrobatics": 1
+      "acrobatics": 1,
+      "sleightOfHand": 1
     },
     "proficiencies": [
       "All armor",

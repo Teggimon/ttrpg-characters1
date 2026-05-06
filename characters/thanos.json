@@ -164,7 +164,7 @@
       "index": "battleaxe",
       "name": "Battleaxe",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "index": "chain-mail",

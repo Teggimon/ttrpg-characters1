@@ -42,11 +42,11 @@
   },
   "stats": {
     "abilityScores": {
-      "str": 13,
+      "str": 16,
       "dex": 13,
       "con": 14,
       "int": 14,
-      "wis": 16,
+      "wis": 17,
       "cha": 14
     },
     "savingThrows": {

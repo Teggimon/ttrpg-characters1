@@ -152,7 +152,7 @@
       "index": "handaxe",
       "name": "Handaxe",
       "quantity": 2,
-      "equipped": false
+      "equipped": true
     },
     {
       "index": "greatsword",

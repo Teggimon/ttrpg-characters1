@@ -42,7 +42,7 @@
   },
   "stats": {
     "abilityScores": {
-      "str": 12,
+      "str": 13,
       "dex": 10,
       "con": 10,
       "int": 10,
@@ -83,7 +83,7 @@
     "hpMax": 19,
     "hpCurrent": 10,
     "hpTemp": 0,
-    "ac": 11,
+    "ac": 17,
     "initiative": 0,
     "speed": 30,
     "deathSaves": {

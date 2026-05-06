@@ -80,7 +80,7 @@
     ]
   },
   "combat": {
-    "hpMax": 0,
+    "hpMax": 1,
     "hpCurrent": 10,
     "hpTemp": 0,
     "ac": 10,

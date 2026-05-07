@@ -82,7 +82,7 @@
     "hpMax": 11,
     "hpCurrent": 11,
     "hpTemp": 0,
-    "ac": 13,
+    "ac": 14,
     "initiative": 0,
     "speed": 30,
     "deathSaves": {
@@ -149,7 +149,8 @@
       "type": "Gear",
       "quantity": 1,
       "equipped": true,
-      "requiresAttunement": true
+      "requiresAttunement": true,
+      "attuned": true
     },
     {
       "itemId": "02759653-7dec-428b-826b-6b738440dcdc",

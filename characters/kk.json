@@ -148,6 +148,18 @@
       "quantity": 1,
       "equipped": true,
       "rarity": "Rare"
+    },
+    {
+      "itemId": "02759653-7dec-428b-826b-6b738440dcdc",
+      "index": "custom-ce6c1b8f-c24e-465c-9b42-9c38d80974e0",
+      "name": "Ring of Awesome",
+      "type": "Gear",
+      "quantity": 1,
+      "weight": 0.1,
+      "description": "Makes you more awesome",
+      "enhancement": 1,
+      "equipped": true,
+      "requiresAttunement": true
     }
   ],
   "racialTraits": [],

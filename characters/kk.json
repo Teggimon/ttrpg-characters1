@@ -96,43 +96,50 @@
       "index": "chain-mail",
       "name": "Chain Mail",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "e3ed009a-3b01-4d30-b85a-14d8b5a836fa"
     },
     {
       "index": "javelin",
       "name": "Javelin",
       "quantity": 5,
-      "equipped": true
+      "equipped": true,
+      "itemId": "ea0b0024-99bb-4cd0-9119-89264ef41957"
     },
     {
       "index": "glaive",
       "name": "Glaive",
       "quantity": 1,
-      "equipped": true
+      "equipped": true,
+      "itemId": "73bd9149-3157-4785-afa0-d05916699bec"
     },
     {
       "index": "longsword",
       "name": "Longsword",
       "quantity": 1,
-      "equipped": true
+      "equipped": true,
+      "itemId": "4f58b8ec-31b0-4cf5-8490-13d12f41646b"
     },
     {
       "index": "priests-pack",
       "name": "Priest's Pack",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "0311b1fd-aedf-4e92-aae4-e72c74811703"
     },
     {
       "index": "clothes-common",
       "name": "Clothes, common",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "a97427ba-6e08-4b31-88ca-3291a569fa5e"
     },
     {
       "index": "pouch",
       "name": "Pouch",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "d530f973-2415-456d-b78c-69d046d732ca"
     }
   ],
   "racialTraits": [],

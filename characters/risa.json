@@ -17,7 +17,7 @@
       {
         "name": "Cleric",
         "index": "cleric",
-        "level": 2
+        "level": 1
       }
     ],
     "background": "Acolyte",
@@ -30,7 +30,7 @@
       ]
     },
     "alignment": "Chaotic Good",
-    "xp": 1900,
+    "xp": 0,
     "portrait": null,
     "size": "Small",
     "languages": [

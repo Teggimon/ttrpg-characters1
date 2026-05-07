@@ -82,7 +82,7 @@
     "hpMax": 11,
     "hpCurrent": 11,
     "hpTemp": 0,
-    "ac": 16,
+    "ac": 17,
     "initiative": 0,
     "speed": 30,
     "deathSaves": {
@@ -150,7 +150,7 @@
       "quantity": 1,
       "equipped": true,
       "requiresAttunement": true,
-      "attuned": false
+      "attuned": true
     },
     {
       "itemId": "02759653-7dec-428b-826b-6b738440dcdc",

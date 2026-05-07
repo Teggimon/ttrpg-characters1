@@ -59,7 +59,7 @@
       "str": false
     },
     "skills": {
-      "intimidation": 2,
+      "intimidation": 0,
       "persuasion": {
         "proficient": true
       },

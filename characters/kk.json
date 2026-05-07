@@ -159,6 +159,14 @@
       "description": "Makes you more awesome",
       "enhancement": 1,
       "equipped": true
+    },
+    {
+      "itemId": "58d91eb2-ed55-4554-b900-802cae6a29b3",
+      "index": "wand-of-magic-missiles",
+      "name": "Wand of Magic Missiles",
+      "quantity": 1,
+      "equipped": false,
+      "rarity": "Uncommon"
     }
   ],
   "racialTraits": [],

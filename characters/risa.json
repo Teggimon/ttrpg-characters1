@@ -274,5 +274,13 @@
     "encumbranceTracking": false,
     "milestoneMode": false
   },
-  "_fileName": "risa.json"
+  "_fileName": "risa.json",
+  "allies": [
+    {
+      "id": "1778112209448",
+      "name": "",
+      "type": "Ally",
+      "description": ""
+    }
+  ]
 }

@@ -140,6 +140,14 @@
       "quantity": 1,
       "equipped": false,
       "itemId": "d530f973-2415-456d-b78c-69d046d732ca"
+    },
+    {
+      "itemId": "e8b68031-1831-4721-a776-1c8e20ae5922",
+      "index": "ring-of-protection",
+      "name": "Ring of Protection",
+      "quantity": 1,
+      "equipped": false,
+      "rarity": "Rare"
     }
   ],
   "racialTraits": [],

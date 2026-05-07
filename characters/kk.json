@@ -149,15 +149,7 @@
       "type": "Gear",
       "quantity": 1,
       "equipped": true,
-      "requiresAttunement": true,
-      "effects": [
-        {
-          "stat": "AC",
-          "mode": "add",
-          "value": 1,
-          "notes": ""
-        }
-      ]
+      "requiresAttunement": true
     },
     {
       "itemId": "02759653-7dec-428b-826b-6b738440dcdc",

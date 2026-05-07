@@ -102,7 +102,7 @@
       "index": "javelin",
       "name": "Javelin",
       "quantity": 5,
-      "equipped": false
+      "equipped": true
     },
     {
       "index": "glaive",
@@ -114,7 +114,7 @@
       "index": "longsword",
       "name": "Longsword",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "index": "priests-pack",

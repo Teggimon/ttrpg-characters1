@@ -278,9 +278,9 @@
   "allies": [
     {
       "id": "1778112209448",
-      "name": "",
-      "type": "Ally",
-      "description": ""
+      "name": "Scavengers",
+      "type": "Organsiation",
+      "description": "Rats\n"
     }
   ]
 }

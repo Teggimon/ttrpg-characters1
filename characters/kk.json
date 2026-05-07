@@ -82,7 +82,7 @@
     "hpMax": 11,
     "hpCurrent": 11,
     "hpTemp": 0,
-    "ac": 17,
+    "ac": 16,
     "initiative": 0,
     "speed": 30,
     "deathSaves": {
@@ -146,8 +146,9 @@
       "index": "ring-of-protection",
       "name": "Ring of Protection",
       "quantity": 1,
-      "equipped": true,
-      "rarity": "Rare"
+      "equipped": false,
+      "rarity": "Rare",
+      "attuned": false
     },
     {
       "itemId": "02759653-7dec-428b-826b-6b738440dcdc",

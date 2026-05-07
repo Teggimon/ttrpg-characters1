@@ -73,7 +73,8 @@
     },
     "proficiencies": {
       "Armour": [
-        "light"
+        "light",
+        "medium"
       ],
       "Weapons": [],
       "Tools": [],

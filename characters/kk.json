@@ -59,7 +59,7 @@
       "str": false
     },
     "skills": {
-      "intimidation": 0,
+      "intimidation": 1,
       "persuasion": {
         "proficient": true
       },
@@ -69,7 +69,7 @@
       "religion": {
         "proficient": true
       },
-      "animalHandling": 2
+      "animalHandling": 0
     },
     "proficiencies": [
       "All armor",

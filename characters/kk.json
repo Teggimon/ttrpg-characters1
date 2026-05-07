@@ -87,7 +87,7 @@
   },
   "combat": {
     "hpMax": 11,
-    "hpCurrent": 6,
+    "hpCurrent": 11,
     "hpTemp": 0,
     "ac": 17,
     "initiative": 0,
@@ -96,7 +96,9 @@
       "successes": 0,
       "failures": 0
     },
-    "conditions": []
+    "conditions": [],
+    "hitDiceAvailable": 0,
+    "classAbilities": []
   },
   "inventory": [
     {

@@ -56,7 +56,7 @@
       "cha": {
         "proficient": true
       },
-      "str": false
+      "str": true
     },
     "skills": {
       "intimidation": {

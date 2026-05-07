@@ -82,7 +82,7 @@
     "hpMax": 11,
     "hpCurrent": 11,
     "hpTemp": 0,
-    "ac": 13,
+    "ac": 16,
     "initiative": 0,
     "speed": 30,
     "deathSaves": {
@@ -96,7 +96,7 @@
       "index": "chain-mail",
       "name": "Chain Mail",
       "quantity": 1,
-      "equipped": false,
+      "equipped": true,
       "itemId": "e3ed009a-3b01-4d30-b85a-14d8b5a836fa",
       "attuned": false
     },

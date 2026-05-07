@@ -55,7 +55,8 @@
       },
       "cha": {
         "proficient": true
-      }
+      },
+      "str": true
     },
     "skills": {
       "intimidation": {

@@ -71,12 +71,18 @@
       },
       "animalHandling": 2
     },
-    "proficiencies": [
-      "All armor",
-      "Shields",
-      "Simple Weapons",
-      "Martial Weapons"
-    ]
+    "proficiencies": {
+      "Armour": [
+        "light"
+      ],
+      "Weapons": [],
+      "Tools": [],
+      "Languages": [
+        "Common",
+        "Deep Speech",
+        "Dwarvish"
+      ]
+    }
   },
   "combat": {
     "hpMax": 11,

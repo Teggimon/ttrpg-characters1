@@ -17,7 +17,7 @@
       {
         "name": "Cleric",
         "index": "cleric",
-        "level": 1
+        "level": 2
       }
     ],
     "background": "Acolyte",
@@ -80,8 +80,8 @@
     ]
   },
   "combat": {
-    "hpMax": 33,
-    "hpCurrent": 33,
+    "hpMax": 43,
+    "hpCurrent": 43,
     "hpTemp": 0,
     "ac": 10,
     "initiative": 0,

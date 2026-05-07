@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "owner": "github:Teggimon",
+    "characterId": "790c0104-bcf0-4e25-a436-e459a965340a",
+    "copiedFrom": null,
+    "system": "dnd5e",
+    "version": 1,
+    "lastUpdated": "2026-05-07T03:33:59.631Z"
+  },
+  "identity": {
+    "name": "kk",
+    "race": "Human",
+    "raceIndex": "human",
+    "subrace": null,
+    "subraceIndex": null,
+    "class": [
+      {
+        "name": "Paladin",
+        "index": "paladin",
+        "level": 1,
+        "subclass": null
+      }
+    ],
+    "background": "Acolyte",
+    "backgroundIndex": "acolyte",
+    "backgroundFeature": {
+      "name": "Shelter of the Faithful",
+      "desc": [
+        "As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.",
+        "You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple."
+      ]
+    },
+    "alignment": "Chaotic Good",
+    "xp": 0,
+    "portrait": null,
+    "size": "Medium",
+    "languages": [
+      "Common",
+      "Deep Speech",
+      "Dwarvish"
+    ]
+  },
+  "stats": {
+    "abilityScores": {
+      "str": 15,
+      "dex": 16,
+      "con": 13,
+      "int": 14,
+      "wis": 11,
+      "cha": 9
+    },
+    "savingThrows": {
+      "wis": {
+        "proficient": true
+      },
+      "cha": {
+        "proficient": true
+      }
+    },
+    "skills": {
+      "intimidation": {
+        "proficient": true
+      },
+      "persuasion": {
+        "proficient": true
+      },
+      "insight": {
+        "proficient": true
+      },
+      "religion": {
+        "proficient": true
+      }
+    },
+    "proficiencies": [
+      "All armor",
+      "Shields",
+      "Simple Weapons",
+      "Martial Weapons"
+    ]
+  },
+  "combat": {
+    "hpMax": 11,
+    "hpCurrent": 11,
+    "hpTemp": 0,
+    "ac": 10,
+    "initiative": 0,
+    "speed": 30,
+    "deathSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "conditions": []
+  },
+  "inventory": [
+    {
+      "index": "chain-mail",
+      "name": "Chain Mail",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "index": "javelin",
+      "name": "Javelin",
+      "quantity": 5,
+      "equipped": false
+    },
+    {
+      "index": "glaive",
+      "name": "Glaive",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "index": "longsword",
+      "name": "Longsword",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "index": "priests-pack",
+      "name": "Priest's Pack",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "index": "clothes-common",
+      "name": "Clothes, common",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "index": "pouch",
+      "name": "Pouch",
+      "quantity": 1,
+      "equipped": false
+    }
+  ],
+  "racialTraits": [],
+  "spells": {
+    "spellcastingAbility": "cha",
+    "slots": {},
+    "known": [],
+    "prepared": [],
+    "concentration": null
+  },
+  "notes": {
+    "personalityTraits": "",
+    "ideals": "",
+    "bonds": "",
+    "flaws": "",
+    "appearance": "",
+    "backstory": "",
+    "alliesAndOrganisations": "",
+    "general": ""
+  },
+  "settings": {
+    "encumbranceTracking": false,
+    "milestoneMode": false
+  }
+}

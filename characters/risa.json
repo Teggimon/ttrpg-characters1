@@ -17,7 +17,7 @@
       {
         "name": "Cleric",
         "index": "cleric",
-        "level": 3
+        "level": 4
       }
     ],
     "background": "Acolyte",
@@ -80,8 +80,8 @@
     ]
   },
   "combat": {
-    "hpMax": 16,
-    "hpCurrent": 16,
+    "hpMax": 18,
+    "hpCurrent": 18,
     "hpTemp": 0,
     "ac": 10,
     "initiative": 0,
@@ -281,6 +281,12 @@
       "name": "Scavengers",
       "type": "Organsiation",
       "description": "Rats\n"
+    }
+  ],
+  "feats": [
+    {
+      "name": "Athlete",
+      "desc": "+1 STR or DEX. Climb speed equals walk speed. Standing from prone costs 5ft. Long/high jump distance doesn't require running start."
     }
   ]
 }

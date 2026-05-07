@@ -158,8 +158,7 @@
       "weight": 0.1,
       "description": "Makes you more awesome",
       "enhancement": 1,
-      "equipped": true,
-      "requiresAttunement": true
+      "equipped": true
     }
   ],
   "racialTraits": [],

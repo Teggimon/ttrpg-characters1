@@ -82,7 +82,7 @@
     "hpMax": 11,
     "hpCurrent": 11,
     "hpTemp": 0,
-    "ac": 16,
+    "ac": 13,
     "initiative": 0,
     "speed": 30,
     "deathSaves": {
@@ -96,43 +96,43 @@
       "index": "chain-mail",
       "name": "Chain Mail",
       "quantity": 1,
-      "equipped": true
+      "equipped": false
     },
     {
       "index": "javelin",
       "name": "Javelin",
       "quantity": 5,
-      "equipped": false
+      "equipped": true
     },
     {
       "index": "glaive",
       "name": "Glaive",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "index": "longsword",
       "name": "Longsword",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "index": "priests-pack",
       "name": "Priest's Pack",
       "quantity": 1,
-      "equipped": true
+      "equipped": false
     },
     {
       "index": "clothes-common",
       "name": "Clothes, common",
       "quantity": 1,
-      "equipped": true
+      "equipped": false
     },
     {
       "index": "pouch",
       "name": "Pouch",
       "quantity": 1,
-      "equipped": true
+      "equipped": false
     }
   ],
   "racialTraits": [],

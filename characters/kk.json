@@ -108,7 +108,7 @@
       "index": "glaive",
       "name": "Glaive",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "index": "longsword",
@@ -156,5 +156,6 @@
   "settings": {
     "encumbranceTracking": false,
     "milestoneMode": false
-  }
+  },
+  "_fileName": "kk.json"
 }

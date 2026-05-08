@@ -97,109 +97,127 @@
       "index": "shield",
       "name": "Shield",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "b2889ace-21aa-4a3f-8e03-edd6a2b828a6"
     },
     {
       "index": "warhammer",
       "name": "Warhammer",
       "quantity": 1,
-      "equipped": true
+      "equipped": true,
+      "itemId": "4023b32b-3174-4e7d-8590-104a8f74298c"
     },
     {
       "index": "scale-mail",
       "name": "Scale Mail",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "7c2aeb39-3298-4968-a65f-6cfd91dc8dfc"
     },
     {
       "index": "crossbow-light",
       "name": "Crossbow, light",
       "quantity": 1,
-      "equipped": true
+      "equipped": true,
+      "itemId": "b736611c-e718-454d-b28e-70c11400c8d6"
     },
     {
       "index": "crossbow-bolt",
       "name": "Crossbow bolt",
       "quantity": 20,
-      "equipped": false
+      "equipped": false,
+      "itemId": "012311c6-f242-445f-b7db-fe839311b66d"
     },
     {
       "index": "backpack",
       "name": "Backpack",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "837f451f-8c4e-460a-b9ed-960158832c45"
     },
     {
       "index": "blanket",
       "name": "Blanket",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "3c0c8908-cf48-4c7f-a971-54e537bc0fd6"
     },
     {
       "index": "candle",
       "name": "Candle",
       "quantity": 10,
-      "equipped": false
+      "equipped": false,
+      "itemId": "69c762db-0d26-4ba0-a212-ad17d8069b6a"
     },
     {
       "index": "tinderbox",
       "name": "Tinderbox",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "a8e00b22-e64c-4a58-a60f-e4babf6aabbf"
     },
     {
       "index": "rations-1-day",
       "name": "Rations (1 day)",
       "quantity": 2,
-      "equipped": false
+      "equipped": false,
+      "itemId": "ad3897d0-d50c-4b9b-8d23-d3e945125541"
     },
     {
       "index": "waterskin",
       "name": "Waterskin",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "c9ec35d7-bdbc-4562-b894-630cf72e3eab"
     },
     {
       "index": "alms-box",
       "name": "Alms box",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "c7df584e-8e13-47d6-9be0-03cbfe3dc126"
     },
     {
       "index": "block-of-incense",
       "name": "Block of incense",
       "quantity": 2,
-      "equipped": false
+      "equipped": false,
+      "itemId": "04f5936b-9eab-44f1-ab7b-93d604bbc0e7"
     },
     {
       "index": "censer",
       "name": "Censer",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "8b39e8eb-c1a8-4c04-ba86-3cf249522746"
     },
     {
       "index": "vestments",
       "name": "Vestments",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "f3d46e9e-762a-4975-8b0a-7c1db9311d33"
     },
     {
       "index": "sling",
       "name": "Sling",
       "quantity": 1,
-      "equipped": true
+      "equipped": true,
+      "itemId": "67a5b44d-16d7-4d41-8014-500906ee073f"
     },
     {
       "index": "clothes-common",
       "name": "Clothes, common",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "baada042-6364-4098-a69f-9bd7d361bd42"
     },
     {
       "index": "pouch",
       "name": "Pouch",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "aef2c1ac-d6e3-443d-94de-60227df50890"
     }
   ],
   "racialTraits": [

@@ -98,91 +98,106 @@
       "index": "backpack",
       "name": "Backpack",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "4be0e4d6-779d-4aeb-9ef9-6613919e93ff"
     },
     {
       "index": "crowbar",
       "name": "Crowbar",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "2c7794c4-25f9-4e2b-96a9-cc3c2a7e20c7"
     },
     {
       "index": "hammer",
       "name": "Hammer",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "4e5ee552-a0c3-4e3b-bb92-cf9e160a27a8"
     },
     {
       "index": "piton",
       "name": "Piton",
       "quantity": 10,
-      "equipped": false
+      "equipped": false,
+      "itemId": "142bedb5-aaea-443c-9458-70f9a284415b"
     },
     {
       "index": "torch",
       "name": "Torch",
       "quantity": 10,
-      "equipped": false
+      "equipped": false,
+      "itemId": "6a25bdd6-ec62-4759-955b-403d7ebd3aac"
     },
     {
       "index": "tinderbox",
       "name": "Tinderbox",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "30440145-5dc2-43a8-a7da-657cb4847062"
     },
     {
       "index": "rations-1-day",
       "name": "Rations (1 day)",
       "quantity": 10,
-      "equipped": false
+      "equipped": false,
+      "itemId": "e39f186a-5a48-42e3-87c4-edf7d326e2fc"
     },
     {
       "index": "waterskin",
       "name": "Waterskin",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "9bc47aac-8ad2-40e3-a2b4-29a0c925f085"
     },
     {
       "index": "rope-hempen-50-feet",
       "name": "Rope, hempen (50 feet)",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "2b537cd5-43c6-4349-96a1-528538f2ec64"
     },
     {
       "index": "handaxe",
       "name": "Handaxe",
       "quantity": 2,
-      "equipped": true
+      "equipped": true,
+      "itemId": "35612308-4a74-4620-ae91-c1d78b6a5878"
     },
     {
       "index": "greatsword",
       "name": "Greatsword",
       "quantity": 1,
-      "equipped": true
+      "equipped": true,
+      "itemId": "741a8f08-25d5-43d7-b0de-2bae55987957"
     },
     {
       "index": "battleaxe",
       "name": "Battleaxe",
       "quantity": 1,
-      "equipped": true
+      "equipped": true,
+      "itemId": "a2e0ebcd-a9e4-4f63-b533-fc5343b270ac"
     },
     {
       "index": "chain-mail",
       "name": "Chain Mail",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "1892e31a-f807-4ae5-b296-30f4b666fc5d"
     },
     {
       "index": "clothes-common",
       "name": "Clothes, common",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "f2ccfa2e-52f0-4699-9c8b-dd4c0f7aeb61"
     },
     {
       "index": "pouch",
       "name": "Pouch",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "itemId": "0325bb0c-020e-4aff-aea1-703a2ea576cd"
     }
   ],
   "racialTraits": [

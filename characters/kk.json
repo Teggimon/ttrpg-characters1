@@ -234,7 +234,14 @@
         "used": 0
       }
     },
-    "known": [],
+    "known": [
+      {
+        "id": "kvm4dfeo9l",
+        "index": "chill-touch",
+        "name": "Chill Touch",
+        "level": 0
+      }
+    ],
     "prepared": [],
     "concentration": null
   },

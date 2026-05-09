@@ -264,6 +264,12 @@
         "index": "charm-person",
         "name": "Charm Person",
         "level": 1
+      },
+      {
+        "id": "ebzy4bgsvlc",
+        "index": "animate-dead",
+        "name": "Animate Dead",
+        "level": 3
       }
     ],
     "prepared": [

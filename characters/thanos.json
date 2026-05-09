@@ -203,7 +203,7 @@
     {
       "itemId": "5395ad16-82f2-49ac-9bfa-e82079bba146",
       "index": "longsword",
-      "name": "Talon ‘Longsword’",
+      "name": "Talon âLongswordâ",
       "type": "Gear",
       "quantity": 1,
       "weight": 3,
@@ -222,6 +222,18 @@
           "notes": ""
         }
       ]
+    },
+    {
+      "itemId": "41382359-d517-4d17-a31d-4d9699578402",
+      "index": "longsword",
+      "name": "Longsword",
+      "quantity": 1,
+      "equipped": false,
+      "weight": 3,
+      "damage": {
+        "dice": "1d8",
+        "type": "Slashing"
+      }
     }
   ],
   "racialTraits": [

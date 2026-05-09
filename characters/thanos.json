@@ -84,7 +84,7 @@
     "hpMax": 19,
     "hpCurrent": 10,
     "hpTemp": 0,
-    "ac": 17,
+    "ac": 10,
     "initiative": 0,
     "speed": 30,
     "deathSaves": {
@@ -198,6 +198,18 @@
       "quantity": 1,
       "equipped": false,
       "itemId": "0325bb0c-020e-4aff-aea1-703a2ea576cd"
+    },
+    {
+      "itemId": "5395ad16-82f2-49ac-9bfa-e82079bba146",
+      "index": "longsword",
+      "name": "Longsword",
+      "quantity": 1,
+      "equipped": true,
+      "weight": 3,
+      "damage": {
+        "dice": "1d8",
+        "type": "Slashing"
+      }
     }
   ],
   "racialTraits": [

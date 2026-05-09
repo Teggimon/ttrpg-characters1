@@ -270,6 +270,12 @@
         "index": "animate-dead",
         "name": "Animate Dead",
         "level": 3
+      },
+      {
+        "id": "gspf6ep4mp",
+        "index": "acid-splash",
+        "name": "Acid Splash",
+        "level": 0
       }
     ],
     "prepared": [

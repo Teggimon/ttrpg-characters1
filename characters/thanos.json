@@ -203,7 +203,7 @@
     {
       "itemId": "5395ad16-82f2-49ac-9bfa-e82079bba146",
       "index": "longsword",
-      "name": "Longsword",
+      "name": "Talon ‘Longsword’",
       "type": "Gear",
       "quantity": 1,
       "weight": 3,
@@ -221,8 +221,7 @@
           "value": 1,
           "notes": ""
         }
-      ],
-      "attuned": false
+      ]
     }
   ],
   "racialTraits": [

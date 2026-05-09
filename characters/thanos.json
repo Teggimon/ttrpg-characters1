@@ -168,8 +168,9 @@
       "index": "greatsword",
       "name": "Greatsword",
       "quantity": 1,
-      "equipped": true,
-      "itemId": "741a8f08-25d5-43d7-b0de-2bae55987957"
+      "equipped": false,
+      "itemId": "741a8f08-25d5-43d7-b0de-2bae55987957",
+      "attuned": false
     },
     {
       "index": "battleaxe",

@@ -228,7 +228,7 @@
       "index": "longsword",
       "name": "Longsword",
       "quantity": 1,
-      "equipped": false,
+      "equipped": true,
       "weight": 3,
       "damage": {
         "dice": "1d8",

@@ -331,6 +331,12 @@
         "index": "acid-arrow",
         "name": "Acid Arrow",
         "level": 2
+      },
+      {
+        "id": "y62lgqp8ed",
+        "index": "alter-self",
+        "name": "Alter Self",
+        "level": 2
       }
     ],
     "prepared": [

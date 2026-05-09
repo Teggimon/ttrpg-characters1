@@ -17,7 +17,7 @@
       {
         "name": "Paladin",
         "index": "paladin",
-        "level": 1,
+        "level": 2,
         "subclass": null
       }
     ],
@@ -86,8 +86,8 @@
     }
   },
   "combat": {
-    "hpMax": 11,
-    "hpCurrent": 11,
+    "hpMax": 14,
+    "hpCurrent": 14,
     "hpTemp": 0,
     "ac": 17,
     "initiative": 0,
@@ -222,15 +222,7 @@
     "spellcastingAbility": "cha",
     "slots": {
       "1": {
-        "total": 4,
-        "used": 0
-      },
-      "2": {
-        "total": 3,
-        "used": 0
-      },
-      "3": {
-        "total": 1,
+        "total": 2,
         "used": 0
       }
     },
@@ -276,6 +268,12 @@
         "index": "acid-splash",
         "name": "Acid Splash",
         "level": 0
+      },
+      {
+        "id": "5h7gk4e8qjb",
+        "index": "blink",
+        "name": "Blink",
+        "level": 3
       }
     ],
     "prepared": [

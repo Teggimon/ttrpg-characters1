@@ -17,8 +17,8 @@
       {
         "name": "Paladin",
         "index": "paladin",
-        "level": 2,
-        "subclass": null
+        "level": 3,
+        "subclass": "Ancients"
       }
     ],
     "background": "Acolyte",
@@ -38,7 +38,8 @@
       "Common",
       "Deep Speech",
       "Dwarvish"
-    ]
+    ],
+    "subclass": "Ancients"
   },
   "stats": {
     "abilityScores": {
@@ -86,8 +87,8 @@
     }
   },
   "combat": {
-    "hpMax": 14,
-    "hpCurrent": 14,
+    "hpMax": 23,
+    "hpCurrent": 23,
     "hpTemp": 0,
     "ac": 17,
     "initiative": 0,
@@ -222,7 +223,7 @@
     "spellcastingAbility": "cha",
     "slots": {
       "1": {
-        "total": 2,
+        "total": 3,
         "used": 0
       }
     },

@@ -337,6 +337,12 @@
         "index": "alter-self",
         "name": "Alter Self",
         "level": 2
+      },
+      {
+        "id": "0da642zkw4ba",
+        "index": "cloudkill",
+        "name": "Cloudkill",
+        "level": 5
       }
     ],
     "prepared": [

@@ -313,6 +313,12 @@
         "index": "animal-messenger",
         "name": "Animal Messenger",
         "level": 2
+      },
+      {
+        "id": "f41b2nad6y7",
+        "index": "foresight",
+        "name": "Foresight",
+        "level": 9
       }
     ],
     "prepared": [

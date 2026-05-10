@@ -17,8 +17,8 @@
       {
         "name": "Artificer",
         "index": "artificer",
-        "level": 2,
-        "subclass": null
+        "level": 3,
+        "subclass": "Battle Smith"
       }
     ],
     "background": "Augen Trust (Spy)",
@@ -94,7 +94,8 @@
         "name": "Spells of the Mark",
         "source": "ERLW"
       }
-    ]
+    ],
+    "subclass": "Battle Smith"
   },
   "stats": {
     "abilityScores": {
@@ -131,8 +132,8 @@
     "damageResistances": []
   },
   "combat": {
-    "hpMax": 15,
-    "hpCurrent": 15,
+    "hpMax": 21,
+    "hpCurrent": 21,
     "hpTemp": 0,
     "ac": 10,
     "initiative": 0,

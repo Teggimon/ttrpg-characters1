@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "owner": "github:Teggimon",
+    "characterId": "25fe8c99-11e6-4d2a-9373-17f1561384c2",
+    "copiedFrom": null,
+    "system": "dnd5e",
+    "version": 1,
+    "lastUpdated": "2026-05-10T12:18:06.652Z"
+  },
+  "identity": {
+    "name": "hunt",
+    "race": "Autognome",
+    "raceIndex": "autognome",
+    "subrace": null,
+    "subraceIndex": null,
+    "class": [
+      {
+        "name": "Cleric",
+        "index": "cleric",
+        "level": 1,
+        "subclass": "Tempest"
+      }
+    ],
+    "background": "Astral Drifter",
+    "backgroundIndex": "astral-drifter",
+    "backgroundFeature": {
+      "name": "Divine Contact",
+      "desc": [
+        "You gain the Magic Initiate from the Player's Handbook and must choose cleric for the feat. In the Astral Sea, you crossed paths with a wandering deity. The encounter was brief and nonviolent, yet it made a lasting impression on you. This deity saw fit to share one secret or obscure bit of cosmic lore with you. Work with your DM to determine the details of this knowledge and its impact on the campaign. Roll on the Divine Contact table to determine which deity you encountered, or work with your DM to identify a more suitable choice."
+      ]
+    },
+    "alignment": "Chaotic Good",
+    "xp": 0,
+    "portrait": null,
+    "size": "Small",
+    "languages": [],
+    "racialOptions": {},
+    "racialTraits": [
+      {
+        "index": "creature-type",
+        "name": "Creature Type",
+        "source": "AAG"
+      },
+      {
+        "index": "armored-casing",
+        "name": "Armored Casing",
+        "source": "AAG"
+      },
+      {
+        "index": "built-for-success",
+        "name": "Built for Success",
+        "source": "AAG"
+      },
+      {
+        "index": "healing-machine",
+        "name": "Healing Machine",
+        "source": "AAG"
+      },
+      {
+        "index": "mechanical-nature",
+        "name": "Mechanical Nature",
+        "source": "AAG"
+      },
+      {
+        "index": "sentrys-rest",
+        "name": "Sentry's Rest",
+        "source": "AAG"
+      },
+      {
+        "index": "specialized-design",
+        "name": "Specialized Design",
+        "source": "AAG"
+      }
+    ]
+  },
+  "stats": {
+    "abilityScores": {
+      "str": 15,
+      "dex": 15,
+      "con": 12,
+      "int": 14,
+      "wis": 8,
+      "cha": 15
+    },
+    "savingThrows": {
+      "wis": {
+        "proficient": true
+      },
+      "cha": {
+        "proficient": true
+      }
+    },
+    "skills": {
+      "medicine": {
+        "proficient": true
+      },
+      "persuasion": {
+        "proficient": true
+      },
+      "insight": {
+        "proficient": true
+      },
+      "religion": {
+        "proficient": true
+      }
+    },
+    "proficiencies": [
+      "light armor proficiency",
+      "medium armor proficiency",
+      "shield armor proficiency",
+      "simple weapon proficiency"
+    ],
+    "damageResistances": []
+  },
+  "combat": {
+    "hpMax": 9,
+    "hpCurrent": 9,
+    "hpTemp": 0,
+    "ac": 10,
+    "initiative": 0,
+    "speed": 30,
+    "deathSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "conditions": []
+  },
+  "inventory": [
+    {
+      "itemId": "0cef5226-45cc-4f7e-9c12-4cac3fb9500a",
+      "index": "warhammer",
+      "name": "warhammer",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "4057a48d-0987-481b-aed2-88405bf18d0f",
+      "index": "chain-mail",
+      "name": "chain mail",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "0c929f1a-3a27-41a3-9eb7-019ca19ee20a",
+      "index": "light-crossbow",
+      "name": "light crossbow",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "d694f32f-8055-4635-aad7-1e4231e651e8",
+      "index": "crossbow-bolts-20",
+      "name": "bolts",
+      "quantity": 20,
+      "equipped": false
+    },
+    {
+      "itemId": "571fee4e-d92f-4c2f-8050-19150d70ca05",
+      "index": "priests-pack",
+      "name": "priest's pack",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "24a66acc-5b31-478f-879d-0c09cfd600ae",
+      "index": "shield",
+      "name": "shield",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "004cabab-4b56-46f8-a436-87091978530a",
+      "index": "holy-symbol",
+      "name": "holy symbol",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "bbd11e31-9d3c-4559-bf90-99fdf40d6557",
+      "index": "travelers-clothes",
+      "name": "traveler's clothes",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "694a95f9-fbb9-43f0-89eb-9c1c9eba577c",
+      "index": "ink-pen",
+      "name": "ink pen",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "a753c33d-3a77-46a5-9cdc-64a66b2dfd65",
+      "index": "ink-1-ounce-bottle",
+      "name": "ink (1-ounce bottle)",
+      "quantity": 1,
+      "equipped": false
+    }
+  ],
+  "racialTraits": [
+    {
+      "index": "creature-type",
+      "name": "Creature Type",
+      "source": "AAG"
+    },
+    {
+      "index": "armored-casing",
+      "name": "Armored Casing",
+      "source": "AAG"
+    },
+    {
+      "index": "built-for-success",
+      "name": "Built for Success",
+      "source": "AAG"
+    },
+    {
+      "index": "healing-machine",
+      "name": "Healing Machine",
+      "source": "AAG"
+    },
+    {
+      "index": "mechanical-nature",
+      "name": "Mechanical Nature",
+      "source": "AAG"
+    },
+    {
+      "index": "sentrys-rest",
+      "name": "Sentry's Rest",
+      "source": "AAG"
+    },
+    {
+      "index": "specialized-design",
+      "name": "Specialized Design",
+      "source": "AAG"
+    }
+  ],
+  "spells": {
+    "spellcastingAbility": "wis",
+    "slots": {
+      "1": {
+        "total": 2,
+        "used": 0
+      }
+    },
+    "known": [
+      {
+        "id": "guidance",
+        "index": "guidance",
+        "name": "Guidance",
+        "source": "PHB",
+        "level": 0
+      },
+      {
+        "id": "resistance",
+        "index": "resistance",
+        "name": "Resistance",
+        "source": "PHB",
+        "level": 0
+      },
+      {
+        "id": "sacred-flame",
+        "index": "sacred-flame",
+        "name": "Sacred Flame",
+        "source": "PHB",
+        "level": 0
+      },
+      {
+        "id": "bane",
+        "index": "bane",
+        "name": "Bane",
+        "source": "PHB",
+        "level": 1
+      },
+      {
+        "id": "command",
+        "index": "command",
+        "name": "Command",
+        "source": "PHB",
+        "level": 1
+      },
+      {
+        "id": "create-or-destroy-water",
+        "index": "create-or-destroy-water",
+        "name": "Create or Destroy Water",
+        "source": "PHB",
+        "level": 1
+      },
+      {
+        "id": "bless",
+        "index": "bless",
+        "name": "Bless",
+        "source": "PHB",
+        "level": 1
+      }
+    ],
+    "prepared": [
+      "bane",
+      "command",
+      "create-or-destroy-water",
+      "bless"
+    ],
+    "concentration": null
+  },
+  "customContent": {},
+  "notes": {
+    "personalityTraits": "",
+    "ideals": "",
+    "bonds": "",
+    "flaws": "",
+    "appearance": "",
+    "backstory": "",
+    "alliesAndOrganisations": "",
+    "general": ""
+  },
+  "settings": {
+    "encumbranceTracking": false,
+    "milestoneMode": false
+  }
+}

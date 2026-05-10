@@ -31,13 +31,24 @@
     },
     "alignment": "Chaotic Neutral",
     "xp": 0,
-    "portrait": null,
+    "portrait": "https://raw.githubusercontent.com/Teggimon/ttrpg-characters/main/characters/gg-images/1778396406051-bulby.webp?v=1778396406051",
     "size": "Medium",
     "languages": [
       "Common",
       "Draconic",
       "Primordial",
       "Draconic"
+    ],
+    "images": [
+      {
+        "id": "1778396406051",
+        "name": "bulby.webp",
+        "path": "characters/gg-images/1778396406051-bulby.webp",
+        "url": "https://raw.githubusercontent.com/Teggimon/ttrpg-characters/main/characters/gg-images/1778396406051-bulby.webp?v=1778396406051",
+        "type": "image/webp",
+        "size": 17546,
+        "uploadedAt": "2026-05-10T07:00:06.051Z"
+      }
     ]
   },
   "stats": {
@@ -160,5 +171,6 @@
   "settings": {
     "encumbranceTracking": false,
     "milestoneMode": false
-  }
+  },
+  "_fileName": "gg.json"
 }

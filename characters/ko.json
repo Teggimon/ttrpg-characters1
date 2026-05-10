@@ -121,14 +121,14 @@
       "index": "dagger",
       "name": "dagger",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "itemId": "4ca57f18-08f3-4ed5-b71f-198acc8c4329",
       "index": "dagger",
       "name": "dagger",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "itemId": "fa5fa1a2-b176-404e-85a9-ef73e89fa2a3",

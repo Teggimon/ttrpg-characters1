@@ -224,7 +224,7 @@
       "name": "True-Ice Shards (Rapier)",
       "source": "CoA",
       "quantity": 1,
-      "equipped": false,
+      "equipped": true,
       "damage": {
         "dice": "1d8",
         "type": "cold"

@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "owner": "github:Teggimon",
+    "characterId": "ab9afb6d-866d-42ac-9b76-0e9efbf124e9",
+    "copiedFrom": null,
+    "system": "dnd5e",
+    "version": 1,
+    "lastUpdated": "2026-05-10T11:56:20.095Z"
+  },
+  "identity": {
+    "name": "ko",
+    "race": "Human",
+    "raceIndex": "human",
+    "subrace": "Variant",
+    "subraceIndex": "human-variant",
+    "class": [
+      {
+        "name": "Bard",
+        "index": "bard",
+        "level": 1,
+        "subclass": null
+      }
+    ],
+    "background": "Aberrant Heir",
+    "backgroundIndex": "aberrant-heir",
+    "backgroundFeature": null,
+    "alignment": "True Neutral",
+    "xp": 0,
+    "portrait": null,
+    "size": "Medium",
+    "languages": [
+      "common",
+      "anyStandard"
+    ]
+  },
+  "stats": {
+    "abilityScores": {
+      "str": 15,
+      "dex": 13,
+      "con": 12,
+      "int": 14,
+      "wis": 10,
+      "cha": 8
+    },
+    "savingThrows": {
+      "dex": {
+        "proficient": true
+      },
+      "cha": {
+        "proficient": true
+      }
+    },
+    "skills": {
+      "history": {
+        "proficient": true
+      },
+      "intimidation": {
+        "proficient": true
+      }
+    },
+    "proficiencies": [
+      "light armor proficiency",
+      "simple weapon proficiency",
+      "hand crossbow weapon proficiency",
+      "longsword weapon proficiency",
+      "rapier weapon proficiency",
+      "shortsword weapon proficiency"
+    ]
+  },
+  "combat": {
+    "hpMax": 9,
+    "hpCurrent": 9,
+    "hpTemp": 0,
+    "ac": 10,
+    "initiative": 0,
+    "speed": 30,
+    "deathSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "conditions": []
+  },
+  "inventory": [
+    {
+      "itemId": "f969b392-2950-4bc0-aa41-b7c967b5349b",
+      "index": "rapier",
+      "name": "rapier",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "9f1bfcfb-de1c-41f4-8999-2ad8975bfc88",
+      "index": "longsword",
+      "name": "longsword",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "5eb11f27-d1fb-488f-90ff-d43a6c4c622d",
+      "index": "diplomats-pack",
+      "name": "diplomat's pack",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "56b6954a-55ae-4b70-bbc1-689b9b5316ea",
+      "index": "lute",
+      "name": "lute",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "92379ecb-bd7c-4dd0-8f7f-43828851a105",
+      "index": "leather-armor",
+      "name": "Leather armor",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "de77362d-9be2-4c32-b36a-b7743d32df02",
+      "index": "dagger",
+      "name": "dagger",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "4ca57f18-08f3-4ed5-b71f-198acc8c4329",
+      "index": "dagger",
+      "name": "dagger",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "fa5fa1a2-b176-404e-85a9-ef73e89fa2a3",
+      "index": "disguise-kit",
+      "name": "disguise kit",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "4ca7c37d-9971-47af-a337-7e14a99e0e81",
+      "index": "costume",
+      "name": "costume",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "c82036f7-f581-491d-a8a1-fb302f1f8359",
+      "index": "travelers-clothes",
+      "name": "traveler's clothes",
+      "quantity": 1,
+      "equipped": false
+    }
+  ],
+  "racialTraits": [
+    {
+      "index": "age",
+      "name": "Age"
+    },
+    {
+      "index": "size",
+      "name": "Size"
+    },
+    {
+      "index": "languages",
+      "name": "Languages"
+    },
+    {
+      "index": "skills",
+      "name": "Skills"
+    },
+    {
+      "index": "feat",
+      "name": "Feat"
+    }
+  ],
+  "spells": {
+    "spellcastingAbility": "cha",
+    "slots": {
+      "1": {
+        "total": 2,
+        "used": 0
+      }
+    },
+    "known": [
+      {
+        "id": "blade-ward",
+        "index": "blade-ward",
+        "name": "Blade Ward",
+        "source": "PHB",
+        "level": 0
+      },
+      {
+        "id": "friends",
+        "index": "friends",
+        "name": "Friends",
+        "source": "PHB",
+        "level": 0
+      },
+      {
+        "id": "animal-friendship",
+        "index": "animal-friendship",
+        "name": "Animal Friendship",
+        "source": "PHB",
+        "level": 1
+      },
+      {
+        "id": "charm-person",
+        "index": "charm-person",
+        "name": "Charm Person",
+        "source": "PHB",
+        "level": 1
+      }
+    ],
+    "prepared": [
+      "animal-friendship",
+      "charm-person"
+    ],
+    "concentration": null
+  },
+  "notes": {
+    "personalityTraits": "",
+    "ideals": "",
+    "bonds": "",
+    "flaws": "",
+    "appearance": "",
+    "backstory": "",
+    "alliesAndOrganisations": "",
+    "general": ""
+  },
+  "settings": {
+    "encumbranceTracking": false,
+    "milestoneMode": false
+  }
+}

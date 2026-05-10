@@ -17,7 +17,7 @@
       {
         "name": "Artificer",
         "index": "artificer",
-        "level": 1,
+        "level": 2,
         "subclass": null
       }
     ],
@@ -131,8 +131,8 @@
     "damageResistances": []
   },
   "combat": {
-    "hpMax": 9,
-    "hpCurrent": 9,
+    "hpMax": 15,
+    "hpCurrent": 15,
     "hpTemp": 0,
     "ac": 10,
     "initiative": 0,

@@ -88,7 +88,7 @@
   },
   "combat": {
     "hpMax": 23,
-    "hpCurrent": 12,
+    "hpCurrent": 23,
     "hpTemp": 0,
     "ac": 17,
     "initiative": 0,
@@ -98,7 +98,7 @@
       "failures": 0
     },
     "conditions": [],
-    "hitDiceAvailable": 0,
+    "hitDiceAvailable": 1,
     "classAbilities": []
   },
   "inventory": [
@@ -232,7 +232,7 @@
       },
       "3": {
         "total": 3,
-        "used": 1
+        "used": 0
       },
       "4": {
         "total": 3,
@@ -240,7 +240,7 @@
       },
       "5": {
         "total": 3,
-        "used": 1
+        "used": 0
       },
       "6": {
         "total": 2,

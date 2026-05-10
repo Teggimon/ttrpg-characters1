@@ -93,7 +93,7 @@
       "index": "longsword",
       "name": "longsword",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "itemId": "5eb11f27-d1fb-488f-90ff-d43a6c4c622d",

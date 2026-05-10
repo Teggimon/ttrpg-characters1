@@ -98,7 +98,7 @@
       "failures": 0
     },
     "conditions": [],
-    "hitDiceAvailable": 0,
+    "hitDiceAvailable": 1,
     "classAbilities": []
   },
   "inventory": [

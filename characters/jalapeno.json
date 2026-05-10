@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "owner": "github:Teggimon",
+    "characterId": "f49f073a-c800-4bc8-ad7d-657e7e6e2301",
+    "copiedFrom": null,
+    "system": "dnd5e",
+    "version": 1,
+    "lastUpdated": "2026-05-10T12:49:37.288Z"
+  },
+  "identity": {
+    "name": "jalapeno",
+    "race": "Astral Elf",
+    "raceIndex": "astral-elf",
+    "subrace": null,
+    "subraceIndex": null,
+    "class": [
+      {
+        "name": "Bard",
+        "index": "bard",
+        "level": 1,
+        "subclass": null
+      }
+    ],
+    "background": "Urchin",
+    "backgroundIndex": "urchin",
+    "backgroundFeature": {
+      "name": "City Secrets",
+      "desc": [
+        "You know the secret patterns and flow to cities and can find passages through the urban sprawl that others would miss. When you are not in combat, you (and companions you lead) can travel between any two locations in the city twice as fast as your speed would normally allow."
+      ]
+    },
+    "alignment": "Chaotic Good",
+    "xp": 0,
+    "portrait": null,
+    "size": "Medium",
+    "languages": [],
+    "racialOptions": {},
+    "racialTraits": [
+      {
+        "index": "creature-type",
+        "name": "Creature Type",
+        "source": "AAG"
+      },
+      {
+        "index": "astral-fire",
+        "name": "Astral Fire",
+        "source": "AAG"
+      },
+      {
+        "index": "darkvision",
+        "name": "Darkvision",
+        "source": "AAG"
+      },
+      {
+        "index": "fey-ancestry",
+        "name": "Fey Ancestry",
+        "source": "AAG"
+      },
+      {
+        "index": "keen-senses",
+        "name": "Keen Senses",
+        "source": "AAG"
+      },
+      {
+        "index": "starlight-step",
+        "name": "Starlight Step",
+        "source": "AAG"
+      },
+      {
+        "index": "astral-trance",
+        "name": "Astral Trance",
+        "source": "AAG"
+      }
+    ]
+  },
+  "stats": {
+    "abilityScores": {
+      "str": 15,
+      "dex": 13,
+      "con": 7,
+      "int": 3,
+      "wis": 14,
+      "cha": 16
+    },
+    "savingThrows": {
+      "dex": {
+        "proficient": true
+      },
+      "cha": {
+        "proficient": true
+      }
+    },
+    "skills": {
+      "sleightOfHand": {
+        "proficient": true
+      },
+      "stealth": {
+        "proficient": true
+      }
+    },
+    "proficiencies": [
+      "light armor proficiency",
+      "simple weapon proficiency",
+      "hand crossbow weapon proficiency",
+      "longsword weapon proficiency",
+      "rapier weapon proficiency",
+      "shortsword weapon proficiency"
+    ],
+    "damageResistances": []
+  },
+  "combat": {
+    "hpMax": 6,
+    "hpCurrent": 6,
+    "hpTemp": 0,
+    "ac": 10,
+    "initiative": 0,
+    "speed": 30,
+    "deathSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "conditions": []
+  },
+  "inventory": [
+    {
+      "itemId": "d0469469-282d-4be3-b92c-8605c1b19ab1",
+      "index": "diplomats-pack",
+      "name": "diplomat's pack",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "85a98543-e6ad-45c0-99ea-f02f7737dedb",
+      "index": "rapier",
+      "name": "rapier",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "1782c269-a4f8-4913-824b-2b0fbd212cc4",
+      "index": "longsword",
+      "name": "longsword",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "13841c2e-7e7a-4644-8996-f1cbcfc542a9",
+      "index": "bagpipes",
+      "name": "Bagpipes",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "766b481c-541c-46de-810e-9e0e3450acc5",
+      "index": "leather-armor",
+      "name": "Leather armor",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "90b3b6f6-1599-4f66-913f-b51b35267004",
+      "index": "dagger",
+      "name": "dagger",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "d7aa6581-0ed3-4f05-bdd9-fabd8894adf5",
+      "index": "small-knife",
+      "name": "small knife",
+      "quantity": 1,
+      "equipped": false,
+      "custom": true
+    },
+    {
+      "itemId": "7df4c5ca-566b-4967-b99b-ec62002e2410",
+      "index": "map-of-the-city-you-grew-up-in",
+      "name": "map of the city you grew up in",
+      "quantity": 1,
+      "equipped": false,
+      "custom": true
+    },
+    {
+      "itemId": "7e4f2d4f-8c4a-492a-a4e8-24335f274f0a",
+      "index": "pet-mouse",
+      "name": "pet mouse",
+      "quantity": 1,
+      "equipped": false,
+      "custom": true
+    },
+    {
+      "itemId": "b53b5d2d-f053-4a82-b822-53e00e53ed50",
+      "index": "token-to-remember-your-parents-by",
+      "name": "token to remember your parents by",
+      "quantity": 1,
+      "equipped": false,
+      "custom": true
+    },
+    {
+      "itemId": "3b8378b0-feb4-4ea0-b6e1-c12370bf1925",
+      "index": "common-clothes",
+      "name": "common clothes",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "0defb8e7-c269-417e-812b-dbab549e9219",
+      "index": "pouch",
+      "name": "pouch",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "containsValue": 1000
+    }
+  ],
+  "racialTraits": [
+    {
+      "index": "creature-type",
+      "name": "Creature Type",
+      "source": "AAG"
+    },
+    {
+      "index": "astral-fire",
+      "name": "Astral Fire",
+      "source": "AAG"
+    },
+    {
+      "index": "darkvision",
+      "name": "Darkvision",
+      "source": "AAG"
+    },
+    {
+      "index": "fey-ancestry",
+      "name": "Fey Ancestry",
+      "source": "AAG"
+    },
+    {
+      "index": "keen-senses",
+      "name": "Keen Senses",
+      "source": "AAG"
+    },
+    {
+      "index": "starlight-step",
+      "name": "Starlight Step",
+      "source": "AAG"
+    },
+    {
+      "index": "astral-trance",
+      "name": "Astral Trance",
+      "source": "AAG"
+    }
+  ],
+  "spells": {
+    "spellcastingAbility": "cha",
+    "slots": {
+      "1": {
+        "total": 2,
+        "used": 0
+      }
+    },
+    "known": [
+      {
+        "id": "blade-ward",
+        "index": "blade-ward",
+        "name": "Blade Ward",
+        "source": "PHB",
+        "level": 0
+      },
+      {
+        "id": "mage-hand",
+        "index": "mage-hand",
+        "name": "Mage Hand",
+        "source": "PHB",
+        "level": 0
+      },
+      {
+        "id": "cure-wounds",
+        "index": "cure-wounds",
+        "name": "Cure Wounds",
+        "source": "PHB",
+        "level": 1
+      },
+      {
+        "id": "animal-friendship",
+        "index": "animal-friendship",
+        "name": "Animal Friendship",
+        "source": "PHB",
+        "level": 1
+      }
+    ],
+    "prepared": [
+      "cure-wounds",
+      "animal-friendship"
+    ],
+    "concentration": null
+  },
+  "customContent": {
+    "classFeatures": [
+      {
+        "index": "bard-1-bardic-inspiration",
+        "name": "Bardic Inspiration",
+        "source": "PHB",
+        "className": "Bard",
+        "level": 1,
+        "desc": [
+          "You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6. Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time. You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest. Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level."
+        ],
+        "classIndex": "bard",
+        "gainedAtLevel": 1
+      },
+      {
+        "index": "bard-1-spellcasting",
+        "name": "Spellcasting",
+        "source": "PHB",
+        "className": "Bard",
+        "level": 1,
+        "desc": [
+          "You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations. See chapter 10 for the general rules of spellcasting and chapter 11 for the bard spell list. You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, learning a 3rd cantrip at 4th level and a 4th at 10th level. The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest. For example, if you know the 1st-level spell cure wounds and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot. You know four 1st-level spells of your choice from the bard spell list. You learn an additional bard spell of your choice at each level except 12th, 16th, 19th, and 20th. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level. Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots. Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one. Spell Spell You can cast any bard spell you know as a ritual if that spell has the ritual tag. You can use a musical instrument as a spellcasting focus for your bard spells."
+        ],
+        "classIndex": "bard",
+        "gainedAtLevel": 1
+      }
+    ],
+    "backgroundFeature": {
+      "name": "City Secrets",
+      "desc": [
+        "You know the secret patterns and flow to cities and can find passages through the urban sprawl that others would miss. When you are not in combat, you (and companions you lead) can travel between any two locations in the city twice as fast as your speed would normally allow."
+      ]
+    }
+  },
+  "notes": {
+    "personalityTraits": "",
+    "ideals": "",
+    "bonds": "",
+    "flaws": "",
+    "appearance": "",
+    "backstory": "",
+    "alliesAndOrganisations": "",
+    "general": ""
+  },
+  "settings": {
+    "encumbranceTracking": false,
+    "milestoneMode": false
+  }
+}

@@ -112,7 +112,7 @@
     "hpMax": 6,
     "hpCurrent": 6,
     "hpTemp": 0,
-    "ac": 10,
+    "ac": 11,
     "initiative": 0,
     "speed": 30,
     "deathSaves": {
@@ -135,7 +135,7 @@
       "name": "rapier",
       "source": "PHB",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "itemId": "1782c269-a4f8-4913-824b-2b0fbd212cc4",
@@ -347,5 +347,6 @@
   "settings": {
     "encumbranceTracking": false,
     "milestoneMode": false
-  }
+  },
+  "_fileName": "jalapeno.json"
 }

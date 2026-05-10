@@ -71,7 +71,7 @@
     "hpMax": 9,
     "hpCurrent": 9,
     "hpTemp": 0,
-    "ac": 10,
+    "ac": 11,
     "initiative": 0,
     "speed": 30,
     "deathSaves": {
@@ -86,7 +86,7 @@
       "index": "rapier",
       "name": "rapier",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "itemId": "9f1bfcfb-de1c-41f4-8999-2ad8975bfc88",
@@ -231,5 +231,6 @@
   "settings": {
     "encumbranceTracking": false,
     "milestoneMode": false
-  }
+  },
+  "_fileName": "ko.json"
 }

@@ -17,7 +17,8 @@
       {
         "name": "Cleric",
         "index": "cleric",
-        "level": 1
+        "level": 2,
+        "subclass": "Tempest"
       }
     ],
     "background": "Acolyte",
@@ -49,7 +50,8 @@
         "size": 17546,
         "uploadedAt": "2026-05-10T07:00:06.051Z"
       }
-    ]
+    ],
+    "subclass": "Tempest"
   },
   "stats": {
     "abilityScores": {
@@ -87,8 +89,8 @@
     ]
   },
   "combat": {
-    "hpMax": 8,
-    "hpCurrent": 7,
+    "hpMax": 15,
+    "hpCurrent": 14,
     "hpTemp": 0,
     "ac": 10,
     "initiative": 0,
@@ -153,7 +155,12 @@
   ],
   "spells": {
     "spellcastingAbility": "wis",
-    "slots": {},
+    "slots": {
+      "1": {
+        "total": 3,
+        "used": 0
+      }
+    },
     "known": [],
     "prepared": [],
     "concentration": null

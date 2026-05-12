@@ -161,7 +161,13 @@
       "name": "chain mail",
       "source": "PHB",
       "quantity": 1,
-      "equipped": true
+      "equipped": true,
+      "equipment_category": {
+        "index": "heavy-armor",
+        "name": "Heavy Armor"
+      },
+      "equipment_category_index": "heavy-armor",
+      "weight": 55
     },
     {
       "itemId": "712e979d-2936-4ce5-b600-cb8bd620f796",
@@ -169,7 +175,17 @@
       "name": "Greatsword",
       "source": "PHB",
       "quantity": 1,
-      "equipped": true
+      "equipped": true,
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "weight": 6,
+      "damage": {
+        "dice": "2d6",
+        "type": "slashing"
+      }
     },
     {
       "itemId": "02babcc4-8cde-430e-9c55-bca171a7e17c",
@@ -177,7 +193,17 @@
       "name": "Greataxe",
       "source": "PHB",
       "quantity": 1,
-      "equipped": true
+      "equipped": true,
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "weight": 7,
+      "damage": {
+        "dice": "1d12",
+        "type": "slashing"
+      }
     },
     {
       "itemId": "b815061b-8871-43ab-9367-a6234e313ea1",
@@ -185,14 +211,30 @@
       "name": "light crossbow",
       "source": "PHB",
       "quantity": 1,
-      "equipped": true
+      "equipped": true,
+      "equipment_category": {
+        "index": "ranged-weapon",
+        "name": "Ranged Weapon"
+      },
+      "equipment_category_index": "ranged-weapon",
+      "weight": 5,
+      "damage": {
+        "dice": "1d8",
+        "type": "piercing"
+      }
     },
     {
       "itemId": "2cbcd17c-b70f-496b-a4bf-000d4b137a44",
       "index": "dungeoneers-pack",
       "name": "dungeoneer's pack",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 61.5
     },
     {
       "itemId": "e3dfaff1-f943-4f7c-9303-fa23acb00565",
@@ -200,7 +242,12 @@
       "name": "playing card set",
       "source": "PHB",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "equipment_category": {
+        "index": "gaming-set",
+        "name": "Gaming Set"
+      },
+      "equipment_category_index": "gaming-set"
     },
     {
       "itemId": "26a1a972-1497-46b5-adea-b2387cf39cf0",
@@ -224,7 +271,13 @@
       "name": "common clothes",
       "source": "PHB",
       "quantity": 1,
-      "equipped": false
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 3
     },
     {
       "itemId": "0fb64292-c73b-4e2c-9eed-d9cc0f780593",
@@ -233,7 +286,13 @@
       "source": "PHB",
       "quantity": 1,
       "equipped": false,
-      "containsValue": 1000
+      "containsValue": 1000,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1
     },
     {
       "itemId": "1c29f493-a465-434b-8c7c-200385cfd111",
@@ -253,17 +312,29 @@
       "quantity": 1,
       "equipped": false,
       "weight": 3,
-      "description": ""
+      "description": "",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear"
     },
     {
       "itemId": "72ecab59-e2d3-4081-8fa9-92e77189ec5d",
-      "index": "bolts-20",
-      "name": "Bolts (20)",
+      "index": "crossbow-bolt",
+      "name": "Crossbow Bolt",
       "source": "XPHB",
-      "quantity": 1,
+      "quantity": 20,
       "equipped": false,
-      "weight": 1.5,
-      "description": "Crossbow bolts are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Bolts are typically stored in a Crossbow Bolt Case (bought separately)."
+      "weight": 0.075,
+      "description": "Crossbow bolts are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Bolts are typically stored in a Crossbow Bolt Case (bought separately).",
+      "isAmmo": true,
+      "ammoKind": "bolt",
+      "equipment_category": {
+        "index": "ammunition",
+        "name": "Ammunition"
+      },
+      "equipment_category_index": "ammunition"
     },
     {
       "itemId": "3914ab4b-24e3-4ad3-9bc2-51674477f4d7",
@@ -273,7 +344,14 @@
       "quantity": 9,
       "equipped": false,
       "weight": 0.05,
-      "description": ""
+      "description": "",
+      "isAmmo": true,
+      "ammoKind": "arrow",
+      "equipment_category": {
+        "index": "ammunition",
+        "name": "Ammunition"
+      },
+      "equipment_category_index": "ammunition"
     }
   ],
   "racialTraits": [

@@ -158,7 +158,7 @@
       "name": "handaxes",
       "source": "PHB",
       "quantity": 2,
-      "equipped": false
+      "equipped": true
     },
     {
       "itemId": "0e960f88-19f8-40f1-8b7a-ccba5ca48908",
@@ -207,6 +207,20 @@
       "quantity": 1,
       "equipped": false,
       "containsValue": 1000
+    },
+    {
+      "itemId": "1a063b1f-5d95-4f4a-97e7-81240a782012",
+      "index": "battleaxe",
+      "name": "Battleaxe",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "weight": 4,
+      "damage": {
+        "dice": "1d8",
+        "type": "slashing"
+      },
+      "description": ""
     }
   ],
   "racialTraits": [

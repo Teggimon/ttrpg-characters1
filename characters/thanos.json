@@ -137,7 +137,8 @@
         "name": "Adventuring Gear"
       },
       "equipment_category_index": "adventuring-gear",
-      "weight": 3
+      "weight": 3,
+      "inventoryLabelId": "1c449bfe-8df6-4f96-8657-5bcebd71c7fd"
     },
     {
       "index": "piton",

@@ -17,7 +17,7 @@
       {
         "name": "Fighter",
         "index": "fighter",
-        "level": 4,
+        "level": 5,
         "subclass": "Eldritch Knight"
       }
     ],
@@ -83,8 +83,8 @@
     ]
   },
   "combat": {
-    "hpMax": 67,
-    "hpCurrent": 67,
+    "hpMax": 78,
+    "hpCurrent": 78,
     "hpTemp": 0,
     "ac": 10,
     "initiative": 0,
@@ -405,6 +405,18 @@
         ],
         "classIndex": "fighter",
         "gainedAtLevel": 4
+      },
+      {
+        "index": "fighter-5-extra-attack",
+        "name": "Extra Attack",
+        "source": "PHB",
+        "className": "Fighter",
+        "level": 5,
+        "desc": [
+          "Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class."
+        ],
+        "classIndex": "fighter",
+        "gainedAtLevel": 5
       }
     ]
   },

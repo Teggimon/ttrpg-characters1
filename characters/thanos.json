@@ -82,7 +82,7 @@
   },
   "combat": {
     "hpMax": 19,
-    "hpCurrent": 10,
+    "hpCurrent": 19,
     "hpTemp": 0,
     "ac": 10,
     "initiative": 0,
@@ -91,7 +91,9 @@
       "successes": 0,
       "failures": 0
     },
-    "conditions": []
+    "conditions": [],
+    "hitDiceAvailable": 1,
+    "classAbilities": []
   },
   "inventory": [
     {
@@ -203,7 +205,7 @@
     {
       "itemId": "5395ad16-82f2-49ac-9bfa-e82079bba146",
       "index": "longsword",
-      "name": "Talon Ã¢ÂÂLongswordÃ¢ÂÂ",
+      "name": "Talon ÃÂ¢ÃÂÃÂLongswordÃÂ¢ÃÂÃÂ",
       "type": "Gear",
       "quantity": 1,
       "weight": 3,

@@ -142,7 +142,7 @@
       "name": "Greatsword",
       "source": "PHB",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "itemId": "0c7596a4-fa68-410e-8f57-113281b0b7e3",
@@ -150,7 +150,7 @@
       "name": "Greataxe",
       "source": "PHB",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "itemId": "98749af3-7c13-46dd-ac6f-b673a372de8c",

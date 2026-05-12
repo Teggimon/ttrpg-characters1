@@ -321,10 +321,11 @@
     {
       "itemId": "e432d9b3-9bb7-46b0-8587-34274cb03e6c",
       "index": "longsword",
-      "name": "Longsword",
+      "name": "Talon",
       "type": "Gear",
       "quantity": 1,
       "weight": 3,
+      "description": "Longsword",
       "equipped": true,
       "effects": [
         {

@@ -253,6 +253,16 @@
       "custom": true,
       "source": "Custom",
       "attuned": false
+    },
+    {
+      "itemId": "45b9f5a8-5c6d-48a9-9050-aa22b6ed29b1",
+      "index": "bandore",
+      "name": "Bandore",
+      "source": "FRHoF",
+      "quantity": 1,
+      "equipped": false,
+      "weight": 3,
+      "description": ""
     }
   ],
   "racialTraits": [

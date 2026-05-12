@@ -108,7 +108,7 @@
     "hpMax": 9,
     "hpCurrent": 9,
     "hpTemp": 0,
-    "ac": 13,
+    "ac": 16,
     "initiative": 0,
     "speed": 30,
     "deathSaves": {
@@ -195,7 +195,7 @@
     },
     {
       "itemId": "fc25be9a-8eda-4923-9bdb-2a011494e0f5",
-      "equipped": true,
+      "equipped": false,
       "index": "leather-armor",
       "name": "Leather Armor",
       "source": "PHB",
@@ -211,7 +211,8 @@
       },
       "armor_category": "Light",
       "weight": 10,
-      "description": "The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials."
+      "description": "The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.",
+      "attuned": false
     },
     {
       "itemId": "f09ee504-8e5c-4ca3-9a85-80206f8f8ab9",

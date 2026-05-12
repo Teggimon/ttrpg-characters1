@@ -188,14 +188,6 @@
       "equipped": true
     },
     {
-      "itemId": "c2c10bc4-3a26-4cb4-8b90-9bf701032d69",
-      "index": "crossbow-bolt",
-      "name": "crossbow bolt",
-      "type": "Gear",
-      "quantity": 1,
-      "equipped": false
-    },
-    {
       "itemId": "2cbcd17c-b70f-496b-a4bf-000d4b137a44",
       "index": "dungeoneers-pack",
       "name": "dungeoneer's pack",
@@ -278,7 +270,7 @@
       "index": "crossbow-bolt",
       "name": "Crossbow Bolt",
       "source": "PHB",
-      "quantity": 20,
+      "quantity": 13,
       "equipped": false,
       "weight": 0.075,
       "description": ""

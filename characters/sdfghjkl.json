@@ -182,7 +182,7 @@
     },
     {
       "itemId": "48a245fb-5630-4b7b-8c55-613b58c5d206",
-      "equipped": false,
+      "equipped": true,
       "index": "greataxe",
       "name": "Greataxe",
       "source": "PHB",
@@ -201,7 +201,7 @@
     },
     {
       "itemId": "8e6b03b4-b472-4ae5-98b4-f69663cc8814",
-      "equipped": false,
+      "equipped": true,
       "index": "handaxe",
       "name": "Handaxe",
       "source": "PHB",

@@ -103,56 +103,104 @@
       "name": "Backpack",
       "quantity": 1,
       "equipped": false,
-      "itemId": "4be0e4d6-779d-4aeb-9ef9-6613919e93ff"
+      "itemId": "4be0e4d6-779d-4aeb-9ef9-6613919e93ff",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 5
     },
     {
       "index": "crowbar",
       "name": "Crowbar",
       "quantity": 1,
       "equipped": false,
-      "itemId": "2c7794c4-25f9-4e2b-96a9-cc3c2a7e20c7"
+      "itemId": "2c7794c4-25f9-4e2b-96a9-cc3c2a7e20c7",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 5
     },
     {
       "index": "hammer",
       "name": "Hammer",
       "quantity": 1,
       "equipped": false,
-      "itemId": "4e5ee552-a0c3-4e3b-bb92-cf9e160a27a8"
+      "itemId": "4e5ee552-a0c3-4e3b-bb92-cf9e160a27a8",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 3
     },
     {
       "index": "piton",
       "name": "Piton",
       "quantity": 10,
       "equipped": false,
-      "itemId": "142bedb5-aaea-443c-9458-70f9a284415b"
+      "itemId": "142bedb5-aaea-443c-9458-70f9a284415b",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 0.25
     },
     {
       "index": "torch",
       "name": "Torch",
       "quantity": 10,
       "equipped": false,
-      "itemId": "6a25bdd6-ec62-4759-955b-403d7ebd3aac"
+      "itemId": "6a25bdd6-ec62-4759-955b-403d7ebd3aac",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1
     },
     {
       "index": "tinderbox",
       "name": "Tinderbox",
       "quantity": 1,
       "equipped": false,
-      "itemId": "30440145-5dc2-43a8-a7da-657cb4847062"
+      "itemId": "30440145-5dc2-43a8-a7da-657cb4847062",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1
     },
     {
       "index": "rations-1-day",
       "name": "Rations (1 day)",
       "quantity": 10,
       "equipped": false,
-      "itemId": "e39f186a-5a48-42e3-87c4-edf7d326e2fc"
+      "itemId": "e39f186a-5a48-42e3-87c4-edf7d326e2fc",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 2
     },
     {
       "index": "waterskin",
       "name": "Waterskin",
       "quantity": 1,
       "equipped": false,
-      "itemId": "9bc47aac-8ad2-40e3-a2b4-29a0c925f085"
+      "itemId": "9bc47aac-8ad2-40e3-a2b4-29a0c925f085",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 5
     },
     {
       "index": "rope-hempen-50-feet",
@@ -166,7 +214,17 @@
       "name": "Handaxe",
       "quantity": 2,
       "equipped": true,
-      "itemId": "35612308-4a74-4620-ae91-c1d78b6a5878"
+      "itemId": "35612308-4a74-4620-ae91-c1d78b6a5878",
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "weight": 2,
+      "damage": {
+        "dice": "1d6",
+        "type": "slashing"
+      }
     },
     {
       "index": "greatsword",
@@ -174,21 +232,47 @@
       "quantity": 1,
       "equipped": false,
       "itemId": "741a8f08-25d5-43d7-b0de-2bae55987957",
-      "attuned": false
+      "attuned": false,
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "weight": 6,
+      "damage": {
+        "dice": "2d6",
+        "type": "slashing"
+      }
     },
     {
       "index": "battleaxe",
       "name": "Battleaxe",
       "quantity": 1,
       "equipped": true,
-      "itemId": "a2e0ebcd-a9e4-4f63-b533-fc5343b270ac"
+      "itemId": "a2e0ebcd-a9e4-4f63-b533-fc5343b270ac",
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "weight": 4,
+      "damage": {
+        "dice": "1d8",
+        "type": "slashing"
+      }
     },
     {
       "index": "chain-mail",
       "name": "Chain Mail",
       "quantity": 1,
       "equipped": false,
-      "itemId": "1892e31a-f807-4ae5-b296-30f4b666fc5d"
+      "itemId": "1892e31a-f807-4ae5-b296-30f4b666fc5d",
+      "equipment_category": {
+        "index": "heavy-armor",
+        "name": "Heavy Armor"
+      },
+      "equipment_category_index": "heavy-armor",
+      "weight": 55
     },
     {
       "index": "clothes-common",
@@ -202,12 +286,18 @@
       "name": "Pouch",
       "quantity": 1,
       "equipped": false,
-      "itemId": "0325bb0c-020e-4aff-aea1-703a2ea576cd"
+      "itemId": "0325bb0c-020e-4aff-aea1-703a2ea576cd",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1
     },
     {
       "itemId": "5395ad16-82f2-49ac-9bfa-e82079bba146",
       "index": "longsword",
-      "name": "Talon ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂLongswordÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
+      "name": "Talon ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂLongswordÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
       "type": "Gear",
       "quantity": 1,
       "weight": 3,
@@ -225,7 +315,16 @@
           "value": 1,
           "notes": ""
         }
-      ]
+      ],
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "damage": {
+        "dice": "1d8",
+        "type": "slashing"
+      }
     },
     {
       "itemId": "41382359-d517-4d17-a31d-4d9699578402",
@@ -237,7 +336,12 @@
       "damage": {
         "dice": "1d8",
         "type": "Slashing"
-      }
+      },
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon"
     },
     {
       "itemId": "b22800c6-54f9-4385-85df-cc52080a7c7e",
@@ -250,7 +354,12 @@
         "dice": "1d8",
         "type": "slashing"
       },
-      "description": ""
+      "description": "",
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon"
     }
   ],
   "racialTraits": [

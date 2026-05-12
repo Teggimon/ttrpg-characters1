@@ -17,7 +17,8 @@
       {
         "name": "Fighter",
         "index": "fighter",
-        "level": 2
+        "level": 3,
+        "subclass": "Eldritch Knight"
       }
     ],
     "background": "Acolyte",
@@ -38,7 +39,8 @@
       "Draconic",
       "Draconic",
       "Goblin"
-    ]
+    ],
+    "subclass": "Eldritch Knight"
   },
   "stats": {
     "abilityScores": {
@@ -81,8 +83,8 @@
     ]
   },
   "combat": {
-    "hpMax": 23,
-    "hpCurrent": 23,
+    "hpMax": 30,
+    "hpCurrent": 30,
     "hpTemp": 0,
     "ac": 10,
     "initiative": 0,
@@ -314,6 +316,18 @@
         ],
         "classIndex": "fighter",
         "gainedAtLevel": 2
+      },
+      {
+        "index": "fighter-3-martial-archetype",
+        "name": "Martial Archetype",
+        "source": "PHB",
+        "className": "Fighter",
+        "level": 3,
+        "desc": [
+          "At 3rd level, you choose an archetype from the list available that you strive to emulate in your combat styles and techniques. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level."
+        ],
+        "classIndex": "fighter",
+        "gainedAtLevel": 3
       }
     ]
   }

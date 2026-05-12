@@ -449,7 +449,8 @@
   "settings": {
     "encumbranceTracking": true,
     "milestoneMode": false,
-    "encumbranceMode": "variant"
+    "encumbranceMode": "variant",
+    "attunementLimit": 0
   },
   "_fileName": "thanos.json",
   "allies": [

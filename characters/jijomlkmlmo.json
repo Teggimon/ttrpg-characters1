@@ -120,7 +120,7 @@
   "inventory": [
     {
       "itemId": "370aae51-4dca-4a90-9cf2-4173173fcc68",
-      "equipped": false,
+      "equipped": true,
       "index": "warhammer",
       "name": "Warhammer",
       "source": "PHB",

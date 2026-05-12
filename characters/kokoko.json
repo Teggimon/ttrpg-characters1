@@ -223,12 +223,23 @@
       "description": ""
     },
     {
-      "itemId": "d1b4e5dc-5734-4d5f-a3ab-fedf621d580e",
+      "itemId": "3c3d1230-2179-45e3-9734-853d018d7ac9",
       "index": "gold-pieces",
       "name": "Gold Pieces",
-      "quantity": 9,
+      "quantity": 90,
       "isCurrency": true,
-      "equipped": false
+      "equipped": false,
+      "attuned": false
+    },
+    {
+      "itemId": "0bb6db56-169f-4e2c-9769-c8b48e60a4aa",
+      "index": "bagpipes",
+      "name": "Bagpipes",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "weight": 6,
+      "description": ""
     }
   ],
   "racialTraits": [

@@ -320,23 +320,6 @@
       "equipment_category_index": "adventuring-gear"
     },
     {
-      "itemId": "72ecab59-e2d3-4081-8fa9-92e77189ec5d",
-      "index": "crossbow-bolt",
-      "name": "Crossbow Bolt",
-      "source": "XPHB",
-      "quantity": 4,
-      "equipped": false,
-      "weight": 0.075,
-      "description": "Crossbow bolts are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Bolts are typically stored in a Crossbow Bolt Case (bought separately).",
-      "isAmmo": true,
-      "ammoKind": "bolt",
-      "equipment_category": {
-        "index": "ammunition",
-        "name": "Ammunition"
-      },
-      "equipment_category_index": "ammunition"
-    },
-    {
       "itemId": "3914ab4b-24e3-4ad3-9bc2-51674477f4d7",
       "index": "arrow",
       "name": "Arrow",
@@ -382,6 +365,25 @@
       "equipment_category_index": "adventuring-gear",
       "weight": 8,
       "description": "Alchemist's supplies enable a character to produce useful concoctions, such as acid or alchemist's fire. Alchemist's supplies include two glass beakers, a metal frame to hold a beaker in place over an open flame, a glass stirring rod, a small mortar and pestle, and a pouch of common alchemical ingredients, including salt, powdered iron, and purified water. Proficiency with alchemist's supplies allows you to unlock more information on Arcana checks involving potions and similar materials. When you inspect an area for clues, proficiency with alchemist's supplies grants additional insight into any chemicals or other substances that might have been used in the area. You can use this tool proficiency to create alchemical items. A character can spend money to collect raw materials, which weigh 1 pound for every 50 gp spent. The DM can allow a character to make a check using the indicated skill with advantage. As part of a long rest, you can use alchemist's supplies to make one dose of acid (vial), alchemist's fire (flask), antitoxin (vial), oil (flask), perfume (vial), or soap. Subtract half the value of the created item from the total gp worth of raw materials you are carrying."
+    },
+    {
+      "itemId": "18d2ab9b-34d7-4069-9c44-5a524fa33330",
+      "index": "longbow",
+      "name": "Longbow",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "ranged-weapon",
+        "name": "Ranged Weapon"
+      },
+      "equipment_category_index": "ranged-weapon",
+      "weight": 2,
+      "damage": {
+        "dice": "1d8",
+        "type": "piercing"
+      },
+      "description": ""
     }
   ],
   "racialTraits": [

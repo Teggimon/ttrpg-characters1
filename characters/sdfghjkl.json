@@ -322,20 +322,24 @@
       "itemId": "e432d9b3-9bb7-46b0-8587-34274cb03e6c",
       "index": "longsword",
       "name": "Longsword",
-      "source": "PHB",
+      "type": "Gear",
       "quantity": 1,
-      "equipped": true,
-      "equipment_category": {
-        "index": "melee-weapon",
-        "name": "Melee Weapon"
-      },
-      "equipment_category_index": "melee-weapon",
       "weight": 3,
-      "damage": {
-        "dice": "1d8",
-        "type": "slashing"
-      },
-      "description": ""
+      "equipped": true,
+      "effects": [
+        {
+          "stat": "Damage",
+          "mode": "add",
+          "value": 1,
+          "notes": ""
+        },
+        {
+          "stat": "Attack Roll",
+          "mode": "add",
+          "value": 1,
+          "notes": ""
+        }
+      ]
     }
   ],
   "racialTraits": [

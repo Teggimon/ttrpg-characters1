@@ -17,7 +17,7 @@
       {
         "name": "Fighter",
         "index": "fighter",
-        "level": 2,
+        "level": 3,
         "subclass": "Eldritch Knight"
       }
     ],
@@ -83,8 +83,8 @@
     ]
   },
   "combat": {
-    "hpMax": 57,
-    "hpCurrent": 57,
+    "hpMax": 64,
+    "hpCurrent": 64,
     "hpTemp": 0,
     "ac": 10,
     "initiative": 0,
@@ -268,10 +268,55 @@
     }
   ],
   "spells": {
-    "spellcastingAbility": null,
-    "slots": {},
-    "known": [],
-    "prepared": [],
+    "spellcastingAbility": "int",
+    "slots": {
+      "1": {
+        "total": 2,
+        "used": 0
+      }
+    },
+    "known": [
+      {
+        "id": "dancing-lights",
+        "index": "dancing-lights",
+        "name": "Dancing Lights",
+        "source": "PHB",
+        "level": 0
+      },
+      {
+        "id": "booming-blade",
+        "index": "booming-blade",
+        "name": "Booming Blade",
+        "source": "TCE",
+        "level": 0
+      },
+      {
+        "id": "alarm",
+        "index": "alarm",
+        "name": "Alarm",
+        "source": "PHB",
+        "level": 1
+      },
+      {
+        "id": "burning-hands",
+        "index": "burning-hands",
+        "name": "Burning Hands",
+        "source": "PHB",
+        "level": 1
+      },
+      {
+        "id": "silent-image",
+        "index": "silent-image",
+        "name": "Silent Image",
+        "source": "PHB",
+        "level": 1
+      }
+    ],
+    "prepared": [
+      "alarm",
+      "burning-hands",
+      "silent-image"
+    ],
     "concentration": null
   },
   "notes": {

@@ -193,7 +193,8 @@
         "name": "Adventuring Gear"
       },
       "equipment_category_index": "adventuring-gear",
-      "weight": 2
+      "weight": 2,
+      "inventoryLabelId": "917447b4-c58b-419e-a781-cfc5bb9d2bcf"
     },
     {
       "index": "waterskin",

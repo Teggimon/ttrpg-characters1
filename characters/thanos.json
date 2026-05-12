@@ -17,7 +17,7 @@
       {
         "name": "Fighter",
         "index": "fighter",
-        "level": 2,
+        "level": 3,
         "subclass": "Eldritch Knight"
       }
     ],
@@ -83,8 +83,8 @@
     ]
   },
   "combat": {
-    "hpMax": 39,
-    "hpCurrent": 39,
+    "hpMax": 49,
+    "hpCurrent": 49,
     "hpTemp": 0,
     "ac": 10,
     "initiative": 0,

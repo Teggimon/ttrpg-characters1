@@ -243,6 +243,16 @@
       "quantity": 1,
       "equipped": false,
       "containsValue": 1000
+    },
+    {
+      "itemId": "1c29f493-a465-434b-8c7c-200385cfd111",
+      "index": "insignia-of-rank",
+      "name": "insignia of rank",
+      "quantity": 1,
+      "equipped": false,
+      "custom": true,
+      "source": "Custom",
+      "attuned": false
     }
   ],
   "racialTraits": [

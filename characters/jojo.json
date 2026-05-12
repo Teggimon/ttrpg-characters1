@@ -352,6 +352,21 @@
         "name": "Ammunition"
       },
       "equipment_category_index": "ammunition"
+    },
+    {
+      "itemId": "08b83568-f83b-48cd-a65a-115cab4a34fa",
+      "index": "bandore",
+      "name": "Bandore",
+      "source": "FRHoF",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 3,
+      "description": ""
     }
   ],
   "racialTraits": [

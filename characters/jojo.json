@@ -176,7 +176,7 @@
       "name": "Greataxe",
       "source": "PHB",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "itemId": "b815061b-8871-43ab-9367-a6234e313ea1",

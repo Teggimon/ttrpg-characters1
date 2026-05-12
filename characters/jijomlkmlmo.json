@@ -108,7 +108,7 @@
     "hpMax": 9,
     "hpCurrent": 9,
     "hpTemp": 0,
-    "ac": 14,
+    "ac": 13,
     "initiative": 0,
     "speed": 30,
     "deathSaves": {
@@ -195,7 +195,7 @@
     },
     {
       "itemId": "fc25be9a-8eda-4923-9bdb-2a011494e0f5",
-      "equipped": false,
+      "equipped": true,
       "index": "leather-armor",
       "name": "Leather Armor",
       "source": "PHB",
@@ -230,7 +230,7 @@
     },
     {
       "itemId": "0a083ff3-0673-42a9-9f2b-bd4031a26b2c",
-      "equipped": false,
+      "equipped": true,
       "index": "shield",
       "name": "Shield",
       "source": "PHB",

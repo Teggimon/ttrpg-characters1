@@ -17,7 +17,7 @@
       {
         "name": "Fighter",
         "index": "fighter",
-        "level": 1,
+        "level": 2,
         "subclass": null
       }
     ],
@@ -141,8 +141,8 @@
     "damageResistances": []
   },
   "combat": {
-    "hpMax": 11,
-    "hpCurrent": 11,
+    "hpMax": 18,
+    "hpCurrent": 18,
     "hpTemp": 0,
     "ac": 16,
     "initiative": 0,
@@ -327,6 +327,18 @@
         ],
         "classIndex": "fighter",
         "gainedAtLevel": 1
+      },
+      {
+        "index": "fighter-2-action-surge",
+        "name": "Action Surge",
+        "source": "PHB",
+        "className": "Fighter",
+        "level": 2,
+        "desc": [
+          "Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action. Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn."
+        ],
+        "classIndex": "fighter",
+        "gainedAtLevel": 2
       }
     ],
     "backgroundFeature": {

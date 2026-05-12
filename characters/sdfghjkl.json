@@ -317,6 +317,25 @@
       "requiresAttunement": true,
       "description": "You gain a +1 bonus to AC and saving throws while wearing this ring.",
       "attuned": true
+    },
+    {
+      "itemId": "e432d9b3-9bb7-46b0-8587-34274cb03e6c",
+      "index": "longsword",
+      "name": "Longsword",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "weight": 3,
+      "damage": {
+        "dice": "1d8",
+        "type": "slashing"
+      },
+      "description": ""
     }
   ],
   "racialTraits": [

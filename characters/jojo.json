@@ -1,0 +1,353 @@
+{
+  "meta": {
+    "owner": "github:Teggimon",
+    "characterId": "ec4add71-736c-4cde-a89e-237910a74126",
+    "copiedFrom": null,
+    "system": "dnd5e",
+    "version": 1,
+    "lastUpdated": "2026-05-12T01:03:24.809Z"
+  },
+  "identity": {
+    "name": "jojo",
+    "race": "Dragonborn",
+    "raceIndex": "dragonborn",
+    "subrace": "Ravenite",
+    "subraceIndex": "dragonborn-ravenite",
+    "class": [
+      {
+        "name": "Fighter",
+        "index": "fighter",
+        "level": 1,
+        "subclass": null
+      }
+    ],
+    "background": "Soldier",
+    "backgroundIndex": "soldier",
+    "backgroundFeature": {
+      "name": "Military Rank",
+      "desc": [
+        "You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. You can invoke your rank to exert influence over other soldiers and requisition simple equipment or horses for temporary use. You can also usually gain access to friendly military encampments and fortresses where your rank is recognized."
+      ]
+    },
+    "alignment": "Chaotic Neutral",
+    "xp": 0,
+    "portrait": null,
+    "size": "Medium",
+    "languages": [
+      "common",
+      "draconic"
+    ],
+    "racialOptions": {
+      "draconic-ancestry": {
+        "id": "black",
+        "name": "Black",
+        "damageType": "acid",
+        "breathWeapon": "5 by 30 ft. line (Dex. save)",
+        "savingThrow": "Dexterity",
+        "grantsResistance": false
+      }
+    },
+    "racialTraits": [
+      {
+        "index": "age",
+        "name": "Age",
+        "source": "PHB"
+      },
+      {
+        "index": "size",
+        "name": "Size",
+        "source": "PHB"
+      },
+      {
+        "index": "draconic-ancestry",
+        "name": "Draconic Ancestry",
+        "source": "PHB"
+      },
+      {
+        "index": "breath-weapon",
+        "name": "Breath Weapon",
+        "source": "PHB",
+        "ancestry": "Black",
+        "damageType": "acid",
+        "breathWeapon": "5 by 30 ft. line (Dex. save)",
+        "savingThrow": "Dexterity"
+      },
+      {
+        "index": "damage-resistance",
+        "name": "Damage Resistance",
+        "source": "PHB"
+      },
+      {
+        "index": "languages",
+        "name": "Languages",
+        "source": "PHB"
+      },
+      {
+        "index": "darkvision",
+        "name": "Darkvision",
+        "source": "EGW"
+      },
+      {
+        "index": "vengeful-assault",
+        "name": "Vengeful Assault",
+        "source": "EGW"
+      },
+      {
+        "index": "draconic-ancestry",
+        "name": "Draconic Ancestry",
+        "source": "EGW"
+      }
+    ]
+  },
+  "stats": {
+    "abilityScores": {
+      "str": 16,
+      "dex": 13,
+      "con": 12,
+      "int": 16,
+      "wis": 9,
+      "cha": 13
+    },
+    "savingThrows": {
+      "str": {
+        "proficient": true
+      },
+      "con": {
+        "proficient": true
+      }
+    },
+    "skills": {
+      "animalHandling": {
+        "proficient": true
+      },
+      "perception": {
+        "proficient": true
+      },
+      "athletics": {
+        "proficient": true
+      },
+      "intimidation": {
+        "proficient": true
+      }
+    },
+    "proficiencies": [
+      "light armor proficiency",
+      "medium armor proficiency",
+      "heavy armor proficiency",
+      "shield armor proficiency",
+      "simple weapon proficiency",
+      "martial weapon proficiency"
+    ],
+    "damageResistances": []
+  },
+  "combat": {
+    "hpMax": 11,
+    "hpCurrent": 11,
+    "hpTemp": 0,
+    "ac": 10,
+    "initiative": 0,
+    "speed": 30,
+    "deathSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "conditions": []
+  },
+  "inventory": [
+    {
+      "itemId": "28f8587d-ed54-4601-8204-e58418f4c776",
+      "index": "chain-mail",
+      "name": "chain mail",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "712e979d-2936-4ce5-b600-cb8bd620f796",
+      "index": "greatsword",
+      "name": "Greatsword",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "02babcc4-8cde-430e-9c55-bca171a7e17c",
+      "index": "greataxe",
+      "name": "Greataxe",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "b815061b-8871-43ab-9367-a6234e313ea1",
+      "index": "light-crossbow",
+      "name": "light crossbow",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "c2c10bc4-3a26-4cb4-8b90-9bf701032d69",
+      "index": "crossbow-bolt",
+      "name": "crossbow bolt",
+      "source": "PHB",
+      "quantity": 400,
+      "equipped": false,
+      "sourcePack": "Crossbow Bolts (20)"
+    },
+    {
+      "itemId": "2cbcd17c-b70f-496b-a4bf-000d4b137a44",
+      "index": "dungeoneers-pack",
+      "name": "dungeoneer's pack",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "e3dfaff1-f943-4f7c-9303-fa23acb00565",
+      "index": "playing-card-set",
+      "name": "playing card set",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "26a1a972-1497-46b5-adea-b2387cf39cf0",
+      "index": "insignia-of-rank",
+      "name": "insignia of rank",
+      "quantity": 1,
+      "equipped": false,
+      "custom": true
+    },
+    {
+      "itemId": "366ab646-0030-4f3f-abf4-e5fbda8c7a1c",
+      "index": "trophy-taken-from-a-fallen-enemy-a-dagger-broken-blade-or-piece-of-a-banner",
+      "name": "trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner)",
+      "quantity": 1,
+      "equipped": false,
+      "custom": true
+    },
+    {
+      "itemId": "34674e97-3934-4838-b7fa-ef56eb4ce50d",
+      "index": "common-clothes",
+      "name": "common clothes",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "0fb64292-c73b-4e2c-9eed-d9cc0f780593",
+      "index": "pouch",
+      "name": "pouch",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "containsValue": 1000
+    }
+  ],
+  "racialTraits": [
+    {
+      "index": "age",
+      "name": "Age",
+      "source": "PHB"
+    },
+    {
+      "index": "size",
+      "name": "Size",
+      "source": "PHB"
+    },
+    {
+      "index": "draconic-ancestry",
+      "name": "Draconic Ancestry",
+      "source": "PHB"
+    },
+    {
+      "index": "breath-weapon",
+      "name": "Breath Weapon",
+      "source": "PHB",
+      "ancestry": "Black",
+      "damageType": "acid",
+      "breathWeapon": "5 by 30 ft. line (Dex. save)",
+      "savingThrow": "Dexterity"
+    },
+    {
+      "index": "damage-resistance",
+      "name": "Damage Resistance",
+      "source": "PHB"
+    },
+    {
+      "index": "languages",
+      "name": "Languages",
+      "source": "PHB"
+    },
+    {
+      "index": "darkvision",
+      "name": "Darkvision",
+      "source": "EGW"
+    },
+    {
+      "index": "vengeful-assault",
+      "name": "Vengeful Assault",
+      "source": "EGW"
+    },
+    {
+      "index": "draconic-ancestry",
+      "name": "Draconic Ancestry",
+      "source": "EGW"
+    }
+  ],
+  "spells": {
+    "spellcastingAbility": null,
+    "slots": {},
+    "known": [],
+    "prepared": [],
+    "concentration": null
+  },
+  "customContent": {
+    "classFeatures": [
+      {
+        "index": "fighter-1-fighting-style",
+        "name": "Fighting Style",
+        "source": "PHB",
+        "className": "Fighter",
+        "level": 1,
+        "desc": [
+          "You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again."
+        ],
+        "classIndex": "fighter",
+        "gainedAtLevel": 1
+      },
+      {
+        "index": "fighter-1-second-wind",
+        "name": "Second Wind",
+        "source": "PHB",
+        "className": "Fighter",
+        "level": 1,
+        "desc": [
+          "You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. Once you use this feature, you must finish a short or long rest before you can use it again."
+        ],
+        "classIndex": "fighter",
+        "gainedAtLevel": 1
+      }
+    ],
+    "backgroundFeature": {
+      "name": "Military Rank",
+      "desc": [
+        "You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. You can invoke your rank to exert influence over other soldiers and requisition simple equipment or horses for temporary use. You can also usually gain access to friendly military encampments and fortresses where your rank is recognized."
+      ]
+    }
+  },
+  "notes": {
+    "personalityTraits": "",
+    "ideals": "",
+    "bonds": "",
+    "flaws": "",
+    "appearance": "",
+    "backstory": "",
+    "alliesAndOrganisations": "",
+    "general": ""
+  },
+  "settings": {
+    "encumbranceTracking": false,
+    "milestoneMode": false
+  }
+}

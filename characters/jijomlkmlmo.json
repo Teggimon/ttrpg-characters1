@@ -108,7 +108,7 @@
     "hpMax": 9,
     "hpCurrent": 9,
     "hpTemp": 0,
-    "ac": 10,
+    "ac": 14,
     "initiative": 0,
     "speed": 30,
     "deathSaves": {
@@ -139,7 +139,7 @@
     },
     {
       "itemId": "a1255f7f-293d-4ca9-969c-34a1da3b180b",
-      "equipped": false,
+      "equipped": true,
       "index": "light-crossbow",
       "name": "Light Crossbow",
       "source": "PHB",
@@ -175,7 +175,7 @@
     },
     {
       "itemId": "74e7105c-2e9d-4984-b880-2becb5f3ec70",
-      "equipped": false,
+      "equipped": true,
       "index": "scale-mail",
       "name": "Scale Mail",
       "source": "PHB",

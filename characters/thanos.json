@@ -17,7 +17,7 @@
       {
         "name": "Fighter",
         "index": "fighter",
-        "level": 3,
+        "level": 1,
         "subclass": "Eldritch Knight"
       }
     ],
@@ -31,7 +31,7 @@
       ]
     },
     "alignment": "Chaotic Good",
-    "xp": 950,
+    "xp": 100,
     "portrait": null,
     "size": "Medium",
     "languages": [

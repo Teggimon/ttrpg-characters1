@@ -448,11 +448,11 @@
   },
   "settings": {
     "encumbranceTracking": true,
-    "milestoneMode": true,
+    "milestoneMode": false,
     "encumbranceMode": "variant",
     "attunementLimit": 4,
     "hitDiceRecovery": "half",
-    "levellingSystem": "milestone"
+    "levellingSystem": "xp"
   },
   "_fileName": "thanos.json",
   "allies": [

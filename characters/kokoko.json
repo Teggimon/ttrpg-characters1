@@ -118,7 +118,7 @@
     "hpMax": 11,
     "hpCurrent": 11,
     "hpTemp": 0,
-    "ac": 10,
+    "ac": 16,
     "initiative": 0,
     "speed": 30,
     "deathSaves": {
@@ -134,7 +134,7 @@
       "name": "chain mail",
       "source": "PHB",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "itemId": "28b3fdb9-c779-403d-a86b-6e5a13e1dfa1",
@@ -480,5 +480,6 @@
   "settings": {
     "encumbranceTracking": false,
     "milestoneMode": false
-  }
+  },
+  "_fileName": "kokoko.json"
 }

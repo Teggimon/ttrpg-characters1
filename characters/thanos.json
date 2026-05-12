@@ -251,7 +251,8 @@
       "damage": {
         "dice": "2d6",
         "type": "slashing"
-      }
+      },
+      "inventoryLabelId": "5d5145d2-db9f-4979-9d4c-efaac32ead8b"
     },
     {
       "index": "battleaxe",

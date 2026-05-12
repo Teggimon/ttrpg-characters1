@@ -207,7 +207,8 @@
         "name": "Adventuring Gear"
       },
       "equipment_category_index": "adventuring-gear",
-      "weight": 5
+      "weight": 5,
+      "inventoryLabelId": "917447b4-c58b-419e-a781-cfc5bb9d2bcf"
     },
     {
       "index": "rope-hempen-50-feet",

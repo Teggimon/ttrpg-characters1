@@ -372,7 +372,7 @@
       "name": "Longbow",
       "source": "PHB",
       "quantity": 1,
-      "equipped": false,
+      "equipped": true,
       "equipment_category": {
         "index": "ranged-weapon",
         "name": "Ranged Weapon"

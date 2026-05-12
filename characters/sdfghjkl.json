@@ -163,7 +163,7 @@
     },
     {
       "itemId": "9a954bc4-10c1-4d9d-a52f-bd453b0f25b8",
-      "equipped": false,
+      "equipped": true,
       "index": "greatsword",
       "name": "Greatsword",
       "source": "PHB",

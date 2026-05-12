@@ -450,7 +450,8 @@
     "encumbranceTracking": true,
     "milestoneMode": false,
     "encumbranceMode": "variant",
-    "attunementLimit": 4
+    "attunementLimit": 4,
+    "hitDiceRecovery": "half"
   },
   "_fileName": "thanos.json",
   "allies": [

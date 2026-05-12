@@ -270,7 +270,7 @@
       "index": "crossbow-bolt",
       "name": "Crossbow Bolt",
       "source": "PHB",
-      "quantity": 13,
+      "quantity": 12,
       "equipped": false,
       "weight": 0.075,
       "description": ""
@@ -280,7 +280,7 @@
       "index": "arrow",
       "name": "Arrow",
       "source": "PHB",
-      "quantity": 2,
+      "quantity": 10,
       "equipped": false,
       "weight": 0.05,
       "description": ""

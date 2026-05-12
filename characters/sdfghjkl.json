@@ -131,7 +131,7 @@
     "hpMax": 11,
     "hpCurrent": 11,
     "hpTemp": 0,
-    "ac": 16,
+    "ac": 17,
     "initiative": 0,
     "speed": 30,
     "deathSaves": {
@@ -307,7 +307,7 @@
       "name": "Ring of Protection",
       "source": "DMG",
       "quantity": 1,
-      "equipped": false,
+      "equipped": true,
       "equipment_category": {
         "index": "magic-item",
         "name": "Magic Item"
@@ -315,7 +315,8 @@
       "equipment_category_index": "magic-item",
       "rarity": "rare",
       "requiresAttunement": true,
-      "description": "You gain a +1 bonus to AC and saving throws while wearing this ring."
+      "description": "You gain a +1 bonus to AC and saving throws while wearing this ring.",
+      "attuned": true
     }
   ],
   "racialTraits": [

@@ -468,7 +468,7 @@
     "spellComponents": "all",
     "concentrationMode": "raw",
     "cantripScaling": "character",
-    "hitDiceRecovery": "all",
+    "hitDiceRecovery": "half",
     "longRestHpRecovery": "full",
     "longRestDuration": "8h",
     "shortRestDuration": "1h",

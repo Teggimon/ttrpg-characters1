@@ -340,7 +340,16 @@
           "value": 1,
           "notes": ""
         }
-      ]
+      ],
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "damage": {
+        "dice": "1d8",
+        "type": "slashing"
+      }
     }
   ],
   "racialTraits": [

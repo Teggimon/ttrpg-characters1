@@ -372,7 +372,8 @@
         "index": "melee-weapon",
         "name": "Melee Weapon"
       },
-      "equipment_category_index": "melee-weapon"
+      "equipment_category_index": "melee-weapon",
+      "inventoryLabelId": "5d5145d2-db9f-4979-9d4c-efaac32ead8b"
     }
   ],
   "racialTraits": [

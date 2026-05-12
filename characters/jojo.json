@@ -168,7 +168,7 @@
       "name": "Greatsword",
       "source": "PHB",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "itemId": "02babcc4-8cde-430e-9c55-bca171a7e17c",
@@ -184,7 +184,7 @@
       "name": "light crossbow",
       "source": "PHB",
       "quantity": 1,
-      "equipped": false
+      "equipped": true
     },
     {
       "itemId": "c2c10bc4-3a26-4cb4-8b90-9bf701032d69",

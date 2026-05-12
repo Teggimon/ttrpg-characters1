@@ -457,6 +457,10 @@
       {
         "id": "5d5145d2-db9f-4979-9d4c-efaac32ead8b",
         "name": "Weapons"
+      },
+      {
+        "id": "1c449bfe-8df6-4f96-8657-5bcebd71c7fd",
+        "name": "Items"
       }
     ]
   },

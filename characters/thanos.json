@@ -447,8 +447,9 @@
     "general": ""
   },
   "settings": {
-    "encumbranceTracking": false,
-    "milestoneMode": false
+    "encumbranceTracking": true,
+    "milestoneMode": false,
+    "encumbranceMode": "basic"
   },
   "_fileName": "thanos.json",
   "allies": [

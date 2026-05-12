@@ -191,10 +191,9 @@
       "itemId": "c2c10bc4-3a26-4cb4-8b90-9bf701032d69",
       "index": "crossbow-bolt",
       "name": "crossbow bolt",
-      "source": "PHB",
-      "quantity": 360,
-      "equipped": false,
-      "sourcePack": "Crossbow Bolts (20)"
+      "type": "Gear",
+      "quantity": 20,
+      "equipped": false
     },
     {
       "itemId": "2cbcd17c-b70f-496b-a4bf-000d4b137a44",

@@ -1,0 +1,484 @@
+{
+  "meta": {
+    "owner": "github:Teggimon",
+    "characterId": "13599576-48b8-4873-9eb9-0fe10d0401dd",
+    "copiedFrom": null,
+    "system": "dnd5e",
+    "version": 1,
+    "lastUpdated": "2026-05-12T01:33:14.291Z"
+  },
+  "identity": {
+    "name": "kokoko",
+    "race": "Astral Elf",
+    "raceIndex": "astral-elf",
+    "subrace": null,
+    "subraceIndex": null,
+    "class": [
+      {
+        "name": "Fighter",
+        "index": "fighter",
+        "level": 1,
+        "subclass": null
+      }
+    ],
+    "background": "Soldier",
+    "backgroundIndex": "soldier",
+    "backgroundFeature": {
+      "name": "Military Rank",
+      "desc": [
+        "You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. You can invoke your rank to exert influence over other soldiers and requisition simple equipment or horses for temporary use. You can also usually gain access to friendly military encampments and fortresses where your rank is recognized."
+      ]
+    },
+    "alignment": "Chaotic Neutral",
+    "xp": 0,
+    "portrait": null,
+    "size": "Medium",
+    "languages": [],
+    "racialOptions": {},
+    "racialTraits": [
+      {
+        "index": "creature-type",
+        "name": "Creature Type",
+        "source": "AAG"
+      },
+      {
+        "index": "astral-fire",
+        "name": "Astral Fire",
+        "source": "AAG"
+      },
+      {
+        "index": "darkvision",
+        "name": "Darkvision",
+        "source": "AAG"
+      },
+      {
+        "index": "fey-ancestry",
+        "name": "Fey Ancestry",
+        "source": "AAG"
+      },
+      {
+        "index": "keen-senses",
+        "name": "Keen Senses",
+        "source": "AAG"
+      },
+      {
+        "index": "starlight-step",
+        "name": "Starlight Step",
+        "source": "AAG"
+      },
+      {
+        "index": "astral-trance",
+        "name": "Astral Trance",
+        "source": "AAG"
+      }
+    ]
+  },
+  "stats": {
+    "abilityScores": {
+      "str": 16,
+      "dex": 12,
+      "con": 13,
+      "int": 18,
+      "wis": 16,
+      "cha": 12
+    },
+    "savingThrows": {
+      "str": {
+        "proficient": true
+      },
+      "con": {
+        "proficient": true
+      }
+    },
+    "skills": {
+      "animalHandling": {
+        "proficient": true
+      },
+      "perception": {
+        "proficient": true
+      },
+      "athletics": {
+        "proficient": true
+      },
+      "intimidation": {
+        "proficient": true
+      }
+    },
+    "proficiencies": [
+      "light armor proficiency",
+      "medium armor proficiency",
+      "heavy armor proficiency",
+      "shield armor proficiency",
+      "simple weapon proficiency",
+      "martial weapon proficiency"
+    ],
+    "damageResistances": []
+  },
+  "combat": {
+    "hpMax": 11,
+    "hpCurrent": 11,
+    "hpTemp": 0,
+    "ac": 10,
+    "initiative": 0,
+    "speed": 30,
+    "deathSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "conditions": []
+  },
+  "inventory": [
+    {
+      "itemId": "1217d787-4c0f-422d-9e8d-a66507659ebc",
+      "index": "chain-mail",
+      "name": "chain mail",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "28b3fdb9-c779-403d-a86b-6e5a13e1dfa1",
+      "index": "greatsword",
+      "name": "Greatsword",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "0c7596a4-fa68-410e-8f57-113281b0b7e3",
+      "index": "greataxe",
+      "name": "Greataxe",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "98749af3-7c13-46dd-ac6f-b673a372de8c",
+      "index": "handaxe",
+      "name": "handaxes",
+      "source": "PHB",
+      "quantity": 2,
+      "equipped": false
+    },
+    {
+      "itemId": "0e960f88-19f8-40f1-8b7a-ccba5ca48908",
+      "index": "dungeoneers-pack",
+      "name": "dungeoneer's pack",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "b764bfbf-d014-462f-bf1b-2330287bace6",
+      "index": "playing-card-set",
+      "name": "playing card set",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "aa237eb9-695d-4803-a9cf-fb9419d14f0d",
+      "index": "insignia-of-rank",
+      "name": "insignia of rank",
+      "quantity": 1,
+      "equipped": false,
+      "custom": true
+    },
+    {
+      "itemId": "aa4d3e26-b16c-49a5-a297-696538e1c234",
+      "index": "trophy-taken-from-a-fallen-enemy-a-dagger-broken-blade-or-piece-of-a-banner",
+      "name": "trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner)",
+      "quantity": 1,
+      "equipped": false,
+      "custom": true
+    },
+    {
+      "itemId": "18ff3a7d-d72c-4a4b-80d7-84ce988a7163",
+      "index": "common-clothes",
+      "name": "common clothes",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "ff770168-dc67-4408-9c44-1f70f9c5b6c3",
+      "index": "pouch",
+      "name": "pouch",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "containsValue": 1000
+    }
+  ],
+  "racialTraits": [
+    {
+      "index": "creature-type",
+      "name": "Creature Type",
+      "source": "AAG"
+    },
+    {
+      "index": "astral-fire",
+      "name": "Astral Fire",
+      "source": "AAG"
+    },
+    {
+      "index": "darkvision",
+      "name": "Darkvision",
+      "source": "AAG"
+    },
+    {
+      "index": "fey-ancestry",
+      "name": "Fey Ancestry",
+      "source": "AAG"
+    },
+    {
+      "index": "keen-senses",
+      "name": "Keen Senses",
+      "source": "AAG"
+    },
+    {
+      "index": "starlight-step",
+      "name": "Starlight Step",
+      "source": "AAG"
+    },
+    {
+      "index": "astral-trance",
+      "name": "Astral Trance",
+      "source": "AAG"
+    }
+  ],
+  "spells": {
+    "spellcastingAbility": null,
+    "slots": {},
+    "known": [],
+    "prepared": [],
+    "concentration": null
+  },
+  "customContent": {
+    "classFeatures": [
+      {
+        "index": "fighter-1-fighting-style",
+        "name": "Fighting Style",
+        "source": "PHB",
+        "className": "Fighter",
+        "level": 1,
+        "desc": [
+          "You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again."
+        ],
+        "choices": [
+          {
+            "type": "option",
+            "choose": 1,
+            "choiceIndex": 0,
+            "options": [
+              {
+                "id": "archery",
+                "name": "Archery",
+                "source": "PHB",
+                "optionType": "refOptionalfeature",
+                "desc": [
+                  "You gain a +2 bonus to attack rolls you make with ranged weapons."
+                ],
+                "featureType": [
+                  "FS:F",
+                  "FS:R"
+                ]
+              },
+              {
+                "id": "defense",
+                "name": "Defense",
+                "source": "PHB",
+                "optionType": "refOptionalfeature",
+                "desc": [
+                  "While you are wearing armor, you gain a +1 bonus to AC."
+                ],
+                "featureType": [
+                  "FS:F",
+                  "FS:P",
+                  "FS:R"
+                ]
+              },
+              {
+                "id": "dueling",
+                "name": "Dueling",
+                "source": "PHB",
+                "optionType": "refOptionalfeature",
+                "desc": [
+                  "When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon."
+                ],
+                "featureType": [
+                  "FS:F",
+                  "FS:B",
+                  "FS:P",
+                  "FS:R"
+                ]
+              },
+              {
+                "id": "great-weapon-fighting",
+                "name": "Great Weapon Fighting",
+                "source": "PHB",
+                "optionType": "refOptionalfeature",
+                "desc": [
+                  "When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit."
+                ],
+                "featureType": [
+                  "FS:F",
+                  "FS:P"
+                ]
+              },
+              {
+                "id": "protection",
+                "name": "Protection",
+                "source": "PHB",
+                "optionType": "refOptionalfeature",
+                "desc": [
+                  "When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield."
+                ],
+                "featureType": [
+                  "FS:F",
+                  "FS:P"
+                ]
+              },
+              {
+                "id": "two-weapon-fighting",
+                "name": "Two-Weapon Fighting",
+                "source": "PHB",
+                "optionType": "refOptionalfeature",
+                "desc": [
+                  "When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack."
+                ],
+                "featureType": [
+                  "FS:F",
+                  "FS:B",
+                  "FS:R"
+                ]
+              },
+              {
+                "id": "blind-fighting-tce",
+                "name": "Blind Fighting",
+                "source": "TCE",
+                "optionType": "refOptionalfeature",
+                "desc": [
+                  "You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind Cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you."
+                ],
+                "featureType": [
+                  "FS:F",
+                  "FS:P",
+                  "FS:R"
+                ]
+              },
+              {
+                "id": "interception-tce",
+                "name": "Interception",
+                "source": "TCE",
+                "optionType": "refOptionalfeature",
+                "desc": [
+                  "When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction."
+                ],
+                "featureType": [
+                  "FS:F",
+                  "FS:P"
+                ]
+              },
+              {
+                "id": "superior-technique-tce",
+                "name": "Superior Technique",
+                "source": "TCE",
+                "optionType": "refOptionalfeature",
+                "desc": [
+                  "You learn one maneuver of your choice from among those available to the fighter archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice). You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest."
+                ],
+                "featureType": [
+                  "FS:F"
+                ]
+              },
+              {
+                "id": "thrown-weapon-fighting-tce",
+                "name": "Thrown Weapon Fighting",
+                "source": "TCE",
+                "optionType": "refOptionalfeature",
+                "desc": [
+                  "You can draw a weapon that has the thrown property as part of the attack you make with the weapon. In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll."
+                ],
+                "featureType": [
+                  "FS:F",
+                  "FS:R"
+                ]
+              },
+              {
+                "id": "unarmed-fighting-tce",
+                "name": "Unarmed Fighting",
+                "source": "TCE",
+                "optionType": "refOptionalfeature",
+                "desc": [
+                  "Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren't wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8. At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you."
+                ],
+                "featureType": [
+                  "FS:F"
+                ]
+              }
+            ]
+          }
+        ],
+        "classIndex": "fighter",
+        "gainedAtLevel": 1
+      },
+      {
+        "index": "fighter-1-second-wind",
+        "name": "Second Wind",
+        "source": "PHB",
+        "className": "Fighter",
+        "level": 1,
+        "desc": [
+          "You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. Once you use this feature, you must finish a short or long rest before you can use it again."
+        ],
+        "choices": [],
+        "classIndex": "fighter",
+        "gainedAtLevel": 1
+      }
+    ],
+    "classFeatureChoices": [
+      {
+        "choiceKey": "fighter-1-fighting-style:0",
+        "featureIndex": "fighter-1-fighting-style",
+        "featureName": "Fighting Style",
+        "className": "Fighter",
+        "classIndex": "fighter",
+        "gainedAtLevel": 1,
+        "options": [
+          {
+            "id": "great-weapon-fighting",
+            "name": "Great Weapon Fighting",
+            "source": "PHB",
+            "desc": [
+              "When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit."
+            ],
+            "featureType": [
+              "FS:F",
+              "FS:P"
+            ]
+          }
+        ]
+      }
+    ],
+    "backgroundFeature": {
+      "name": "Military Rank",
+      "desc": [
+        "You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. You can invoke your rank to exert influence over other soldiers and requisition simple equipment or horses for temporary use. You can also usually gain access to friendly military encampments and fortresses where your rank is recognized."
+      ]
+    }
+  },
+  "notes": {
+    "personalityTraits": "",
+    "ideals": "",
+    "bonds": "",
+    "flaws": "",
+    "appearance": "",
+    "backstory": "",
+    "alliesAndOrganisations": "",
+    "general": ""
+  },
+  "settings": {
+    "encumbranceTracking": false,
+    "milestoneMode": false
+  }
+}

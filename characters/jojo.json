@@ -481,7 +481,7 @@
     "general": ""
   },
   "settings": {
-    "encumbranceTracking": true,
+    "encumbranceTracking": false,
     "milestoneMode": false
   },
   "_fileName": "jojo.json"

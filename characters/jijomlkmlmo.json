@@ -220,7 +220,13 @@
       "name": "priest's pack",
       "quantity": 1,
       "groupIndex": 3,
-      "choiceId": "3_0"
+      "choiceId": "3_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 24
     },
     {
       "itemId": "0a083ff3-0673-42a9-9f2b-bd4031a26b2c",
@@ -269,7 +275,13 @@
       "source": "XPHB",
       "quantity": 2,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1
     },
     {
       "itemId": "d520e583-c218-4cb8-a790-55e6fa45d676",
@@ -279,7 +291,13 @@
       "source": "XPHB",
       "quantity": 1,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 4
     },
     {
       "itemId": "cb8a1acf-9c74-4458-ac25-f6e6c19484e6",
@@ -404,7 +422,7 @@
         "name": "Divine Domain",
         "source": "PHB",
         "desc": [
-          "Choose one domain related to your deity from the list of available domains. Each domain is detailed in their own feature, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels. Each domain has a list of spells—its domain spells—that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you."
+          "Choose one domain related to your deity from the list of available domains. Each domain is detailed in their own feature, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels. Each domain has a list of spellsâits domain spellsâthat you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you."
         ],
         "classIndex": "cleric",
         "className": "Cleric",

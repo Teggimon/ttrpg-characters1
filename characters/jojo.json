@@ -274,6 +274,16 @@
       "equipped": false,
       "weight": 0.075,
       "description": ""
+    },
+    {
+      "itemId": "3914ab4b-24e3-4ad3-9bc2-51674477f4d7",
+      "index": "arrow",
+      "name": "Arrow",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "weight": 0.05,
+      "description": ""
     }
   ],
   "racialTraits": [

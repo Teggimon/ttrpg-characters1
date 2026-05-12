@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "owner": "github:Teggimon",
+    "characterId": "514a6109-c8b4-4e63-b419-09f94c679bcf",
+    "copiedFrom": null,
+    "system": "dnd5e",
+    "version": 1,
+    "lastUpdated": "2026-05-12T00:30:34.200Z"
+  },
+  "identity": {
+    "name": "kokok",
+    "race": "Astral Elf",
+    "raceIndex": "astral-elf",
+    "subrace": null,
+    "subraceIndex": null,
+    "class": [
+      {
+        "name": "Bard",
+        "index": "bard",
+        "level": 1,
+        "subclass": null
+      }
+    ],
+    "background": "Anthropologist",
+    "backgroundIndex": "anthropologist",
+    "backgroundFeature": {
+      "name": "Adept Linguist",
+      "desc": [
+        "You can communicate with humanoids who don't speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures - enough to communicate on a rudimentary level."
+      ]
+    },
+    "alignment": "Chaotic Neutral",
+    "xp": 0,
+    "portrait": null,
+    "size": "Medium",
+    "languages": [],
+    "racialOptions": {},
+    "racialTraits": [
+      {
+        "index": "creature-type",
+        "name": "Creature Type",
+        "source": "AAG"
+      },
+      {
+        "index": "astral-fire",
+        "name": "Astral Fire",
+        "source": "AAG"
+      },
+      {
+        "index": "darkvision",
+        "name": "Darkvision",
+        "source": "AAG"
+      },
+      {
+        "index": "fey-ancestry",
+        "name": "Fey Ancestry",
+        "source": "AAG"
+      },
+      {
+        "index": "keen-senses",
+        "name": "Keen Senses",
+        "source": "AAG"
+      },
+      {
+        "index": "starlight-step",
+        "name": "Starlight Step",
+        "source": "AAG"
+      },
+      {
+        "index": "astral-trance",
+        "name": "Astral Trance",
+        "source": "AAG"
+      }
+    ]
+  },
+  "stats": {
+    "abilityScores": {
+      "str": 10,
+      "dex": 12,
+      "con": 6,
+      "int": 8,
+      "wis": 11,
+      "cha": 16
+    },
+    "savingThrows": {
+      "dex": {
+        "proficient": true
+      },
+      "cha": {
+        "proficient": true
+      }
+    },
+    "skills": {
+      "insight": {
+        "proficient": true
+      },
+      "religion": {
+        "proficient": true
+      }
+    },
+    "proficiencies": [
+      "light armor proficiency",
+      "simple weapon proficiency",
+      "hand crossbow weapon proficiency",
+      "longsword weapon proficiency",
+      "rapier weapon proficiency",
+      "shortsword weapon proficiency"
+    ],
+    "damageResistances": []
+  },
+  "combat": {
+    "hpMax": 6,
+    "hpCurrent": 6,
+    "hpTemp": 0,
+    "ac": 10,
+    "initiative": 0,
+    "speed": 30,
+    "deathSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "conditions": []
+  },
+  "inventory": [
+    {
+      "itemId": "e2ef388f-ac32-4a84-8b71-f0bb478db6a0",
+      "index": "rapier",
+      "name": "rapier",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "61e69f79-a655-49bd-88ab-71b2dcec1c09",
+      "index": "longsword",
+      "name": "longsword",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "4203d425-13fc-4df6-846f-433096ee8409",
+      "index": "diplomats-pack",
+      "name": "diplomat's pack",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "25ddf47c-8f34-4057-a57e-0a2199fe8d73",
+      "index": "bagpipes",
+      "name": "Bagpipes",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "e777dade-3367-4b07-81f6-5ece212523fe",
+      "index": "leather-armor",
+      "name": "Leather armor",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "9551a503-b362-4b99-a3c4-4507c0844fec",
+      "index": "dagger",
+      "name": "dagger",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "8e1a36a5-36af-43af-9c96-dabcf60a88e6",
+      "index": "leather-bound-diary",
+      "name": "leather-bound diary",
+      "quantity": 1,
+      "equipped": false,
+      "custom": true
+    },
+    {
+      "itemId": "dac91fd7-bf44-4ca5-9d39-40021762da7e",
+      "index": "ink-1-ounce-bottle",
+      "name": "ink (1-ounce bottle)",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "6358b59b-505f-402d-9968-b8bac740034e",
+      "index": "ink-pen",
+      "name": "ink pen",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "f6be8283-2b96-499d-8404-2d481d24f196",
+      "index": "travelers-clothes",
+      "name": "traveler's clothes",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "6f230991-abae-4334-acf5-f151ab8084ef",
+      "index": "trinket",
+      "name": "trinket",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false
+    },
+    {
+      "itemId": "5fafe5fc-3227-4ab3-ad48-784b97d44b4c",
+      "index": "pouch",
+      "name": "pouch",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "containsValue": 1000
+    }
+  ],
+  "racialTraits": [
+    {
+      "index": "creature-type",
+      "name": "Creature Type",
+      "source": "AAG"
+    },
+    {
+      "index": "astral-fire",
+      "name": "Astral Fire",
+      "source": "AAG"
+    },
+    {
+      "index": "darkvision",
+      "name": "Darkvision",
+      "source": "AAG"
+    },
+    {
+      "index": "fey-ancestry",
+      "name": "Fey Ancestry",
+      "source": "AAG"
+    },
+    {
+      "index": "keen-senses",
+      "name": "Keen Senses",
+      "source": "AAG"
+    },
+    {
+      "index": "starlight-step",
+      "name": "Starlight Step",
+      "source": "AAG"
+    },
+    {
+      "index": "astral-trance",
+      "name": "Astral Trance",
+      "source": "AAG"
+    }
+  ],
+  "spells": {
+    "spellcastingAbility": "cha",
+    "slots": {
+      "1": {
+        "total": 2,
+        "used": 0
+      }
+    },
+    "known": [
+      {
+        "id": "blade-ward",
+        "index": "blade-ward",
+        "name": "Blade Ward",
+        "source": "PHB",
+        "level": 0
+      },
+      {
+        "id": "dancing-lights",
+        "index": "dancing-lights",
+        "name": "Dancing Lights",
+        "source": "PHB",
+        "level": 0
+      },
+      {
+        "id": "animal-friendship",
+        "index": "animal-friendship",
+        "name": "Animal Friendship",
+        "source": "PHB",
+        "level": 1
+      },
+      {
+        "id": "charm-person",
+        "index": "charm-person",
+        "name": "Charm Person",
+        "source": "PHB",
+        "level": 1
+      }
+    ],
+    "prepared": [
+      "animal-friendship",
+      "charm-person"
+    ],
+    "concentration": null
+  },
+  "customContent": {
+    "classFeatures": [
+      {
+        "index": "bard-1-bardic-inspiration",
+        "name": "Bardic Inspiration",
+        "source": "PHB",
+        "className": "Bard",
+        "level": 1,
+        "desc": [
+          "You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6. Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time. You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest. Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level."
+        ],
+        "classIndex": "bard",
+        "gainedAtLevel": 1
+      },
+      {
+        "index": "bard-1-spellcasting",
+        "name": "Spellcasting",
+        "source": "PHB",
+        "className": "Bard",
+        "level": 1,
+        "desc": [
+          "You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations. See chapter 10 for the general rules of spellcasting and chapter 11 for the bard spell list. You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, learning a 3rd cantrip at 4th level and a 4th at 10th level. The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest. For example, if you know the 1st-level spell cure wounds and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot. You know four 1st-level spells of your choice from the bard spell list. You learn an additional bard spell of your choice at each level except 12th, 16th, 19th, and 20th. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level. Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots. Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one. Spell Spell You can cast any bard spell you know as a ritual if that spell has the ritual tag. You can use a musical instrument as a spellcasting focus for your bard spells."
+        ],
+        "classIndex": "bard",
+        "gainedAtLevel": 1
+      }
+    ],
+    "backgroundFeature": {
+      "name": "Adept Linguist",
+      "desc": [
+        "You can communicate with humanoids who don't speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures - enough to communicate on a rudimentary level."
+      ]
+    }
+  },
+  "notes": {
+    "personalityTraits": "",
+    "ideals": "",
+    "bonds": "",
+    "flaws": "",
+    "appearance": "",
+    "backstory": "",
+    "alliesAndOrganisations": "",
+    "general": ""
+  },
+  "settings": {
+    "encumbranceTracking": false,
+    "milestoneMode": false
+  }
+}

@@ -221,6 +221,14 @@
         "type": "slashing"
       },
       "description": ""
+    },
+    {
+      "itemId": "d1b4e5dc-5734-4d5f-a3ab-fedf621d580e",
+      "index": "gold-pieces",
+      "name": "Gold Pieces",
+      "quantity": 9,
+      "isCurrency": true,
+      "equipped": false
     }
   ],
   "racialTraits": [

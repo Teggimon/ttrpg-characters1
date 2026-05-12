@@ -266,21 +266,11 @@
       "description": "Crossbow bolts are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Bolts are typically stored in a Crossbow Bolt Case (bought separately)."
     },
     {
-      "itemId": "61615386-45e4-48f5-b204-0b02114c3952",
-      "index": "crossbow-bolt",
-      "name": "Crossbow Bolt",
-      "source": "PHB",
-      "quantity": 4,
-      "equipped": false,
-      "weight": 0.075,
-      "description": ""
-    },
-    {
       "itemId": "3914ab4b-24e3-4ad3-9bc2-51674477f4d7",
       "index": "arrow",
       "name": "Arrow",
       "source": "PHB",
-      "quantity": 10,
+      "quantity": 9,
       "equipped": false,
       "weight": 0.05,
       "description": ""

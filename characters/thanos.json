@@ -215,7 +215,8 @@
       "name": "Rope, hempen (50 feet)",
       "quantity": 1,
       "equipped": false,
-      "itemId": "2b537cd5-43c6-4349-96a1-528538f2ec64"
+      "itemId": "2b537cd5-43c6-4349-96a1-528538f2ec64",
+      "inventoryLabelId": "1c449bfe-8df6-4f96-8657-5bcebd71c7fd"
     },
     {
       "index": "handaxe",

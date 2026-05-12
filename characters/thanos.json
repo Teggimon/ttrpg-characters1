@@ -290,7 +290,8 @@
       "name": "Clothes, common",
       "quantity": 1,
       "equipped": false,
-      "itemId": "f2ccfa2e-52f0-4699-9c8b-dd4c0f7aeb61"
+      "itemId": "f2ccfa2e-52f0-4699-9c8b-dd4c0f7aeb61",
+      "inventoryLabelId": "1c449bfe-8df6-4f96-8657-5bcebd71c7fd"
     },
     {
       "index": "pouch",
